@@ -1,0 +1,6002 @@
+[
+    {
+        "CustomerID": 605,
+        "BranchID": 666,
+        "SaleDate": "2020-01-30",
+        "TotalAmount": 3225.74
+    },
+    {
+        "CustomerID": 978,
+        "BranchID": 226,
+        "SaleDate": "2025-03-08",
+        "TotalAmount": 7173.08
+    },
+    {
+        "CustomerID": 813,
+        "BranchID": 990,
+        "SaleDate": "2023-11-08",
+        "TotalAmount": 9156.58
+    },
+    {
+        "CustomerID": 843,
+        "BranchID": 130,
+        "SaleDate": "2023-05-28",
+        "TotalAmount": 3809.29
+    },
+    {
+        "CustomerID": 660,
+        "BranchID": 929,
+        "SaleDate": "2021-01-27",
+        "TotalAmount": 11675.97
+    },
+    {
+        "CustomerID": 263,
+        "BranchID": 486,
+        "SaleDate": "2021-05-25",
+        "TotalAmount": 1158.57
+    },
+    {
+        "CustomerID": 55,
+        "BranchID": 749,
+        "SaleDate": "2023-11-30",
+        "TotalAmount": 6528.95
+    },
+    {
+        "CustomerID": 41,
+        "BranchID": 443,
+        "SaleDate": "2025-08-06",
+        "TotalAmount": 3355.68
+    },
+    {
+        "CustomerID": 708,
+        "BranchID": 569,
+        "SaleDate": "2022-06-07",
+        "TotalAmount": 11214.87
+    },
+    {
+        "CustomerID": 522,
+        "BranchID": 608,
+        "SaleDate": "2021-07-31",
+        "TotalAmount": 16598.94
+    },
+    {
+        "CustomerID": 215,
+        "BranchID": 368,
+        "SaleDate": "2024-06-19",
+        "TotalAmount": 3341.36
+    },
+    {
+        "CustomerID": 240,
+        "BranchID": 160,
+        "SaleDate": "2023-11-27",
+        "TotalAmount": 9886.18
+    },
+    {
+        "CustomerID": 561,
+        "BranchID": 681,
+        "SaleDate": "2022-09-24",
+        "TotalAmount": 8983.17
+    },
+    {
+        "CustomerID": 164,
+        "BranchID": 841,
+        "SaleDate": "2023-07-23",
+        "TotalAmount": 2733.22
+    },
+    {
+        "CustomerID": 862,
+        "BranchID": 325,
+        "SaleDate": "2022-03-08",
+        "TotalAmount": 17383.91
+    },
+    {
+        "CustomerID": 53,
+        "BranchID": 486,
+        "SaleDate": "2022-11-07",
+        "TotalAmount": 7870.94
+    },
+    {
+        "CustomerID": 424,
+        "BranchID": 279,
+        "SaleDate": "2025-06-26",
+        "TotalAmount": 12938.3
+    },
+    {
+        "CustomerID": 564,
+        "BranchID": 38,
+        "SaleDate": "2024-06-21",
+        "TotalAmount": 18163.95
+    },
+    {
+        "CustomerID": 742,
+        "BranchID": 351,
+        "SaleDate": "2022-03-28",
+        "TotalAmount": 18826.51
+    },
+    {
+        "CustomerID": 135,
+        "BranchID": 531,
+        "SaleDate": "2022-11-07",
+        "TotalAmount": 6215.62
+    },
+    {
+        "CustomerID": 43,
+        "BranchID": 212,
+        "SaleDate": "2020-02-17",
+        "TotalAmount": 3115.48
+    },
+    {
+        "CustomerID": 102,
+        "BranchID": 693,
+        "SaleDate": "2020-05-02",
+        "TotalAmount": 13142.31
+    },
+    {
+        "CustomerID": 513,
+        "BranchID": 418,
+        "SaleDate": "2022-05-06",
+        "TotalAmount": 13402.77
+    },
+    {
+        "CustomerID": 98,
+        "BranchID": 148,
+        "SaleDate": "2025-07-25",
+        "TotalAmount": 4750.16
+    },
+    {
+        "CustomerID": 577,
+        "BranchID": 909,
+        "SaleDate": "2025-04-07",
+        "TotalAmount": 3389.33
+    },
+    {
+        "CustomerID": 570,
+        "BranchID": 430,
+        "SaleDate": "2023-07-28",
+        "TotalAmount": 14314.72
+    },
+    {
+        "CustomerID": 499,
+        "BranchID": 87,
+        "SaleDate": "2020-12-31",
+        "TotalAmount": 17061.73
+    },
+    {
+        "CustomerID": 757,
+        "BranchID": 327,
+        "SaleDate": "2021-04-16",
+        "TotalAmount": 460.19
+    },
+    {
+        "CustomerID": 376,
+        "BranchID": 1,
+        "SaleDate": "2023-03-30",
+        "TotalAmount": 1881.91
+    },
+    {
+        "CustomerID": 200,
+        "BranchID": 275,
+        "SaleDate": "2022-07-17",
+        "TotalAmount": 2924.67
+    },
+    {
+        "CustomerID": 747,
+        "BranchID": 283,
+        "SaleDate": "2021-02-05",
+        "TotalAmount": 10663.43
+    },
+    {
+        "CustomerID": 308,
+        "BranchID": 45,
+        "SaleDate": "2021-09-30",
+        "TotalAmount": 8924.46
+    },
+    {
+        "CustomerID": 27,
+        "BranchID": 943,
+        "SaleDate": "2022-02-17",
+        "TotalAmount": 10062.42
+    },
+    {
+        "CustomerID": 374,
+        "BranchID": 244,
+        "SaleDate": "2020-07-18",
+        "TotalAmount": 1242.22
+    },
+    {
+        "CustomerID": 858,
+        "BranchID": 427,
+        "SaleDate": "2020-07-17",
+        "TotalAmount": 4223.28
+    },
+    {
+        "CustomerID": 799,
+        "BranchID": 846,
+        "SaleDate": "2024-10-23",
+        "TotalAmount": 4665.22
+    },
+    {
+        "CustomerID": 438,
+        "BranchID": 443,
+        "SaleDate": "2020-06-14",
+        "TotalAmount": 4095.9
+    },
+    {
+        "CustomerID": 773,
+        "BranchID": 613,
+        "SaleDate": "2023-07-28",
+        "TotalAmount": 52.53
+    },
+    {
+        "CustomerID": 10,
+        "BranchID": 526,
+        "SaleDate": "2020-01-13",
+        "TotalAmount": 13384.33
+    },
+    {
+        "CustomerID": 260,
+        "BranchID": 164,
+        "SaleDate": "2020-12-15",
+        "TotalAmount": 1433.47
+    },
+    {
+        "CustomerID": 757,
+        "BranchID": 435,
+        "SaleDate": "2021-03-06",
+        "TotalAmount": 18288.16
+    },
+    {
+        "CustomerID": 487,
+        "BranchID": 551,
+        "SaleDate": "2024-12-05",
+        "TotalAmount": 9542.37
+    },
+    {
+        "CustomerID": 424,
+        "BranchID": 902,
+        "SaleDate": "2020-04-15",
+        "TotalAmount": 9274.47
+    },
+    {
+        "CustomerID": 489,
+        "BranchID": 746,
+        "SaleDate": "2025-03-22",
+        "TotalAmount": 16419.94
+    },
+    {
+        "CustomerID": 216,
+        "BranchID": 709,
+        "SaleDate": "2022-12-02",
+        "TotalAmount": 11996.5
+    },
+    {
+        "CustomerID": 794,
+        "BranchID": 295,
+        "SaleDate": "2024-06-08",
+        "TotalAmount": 1242.9
+    },
+    {
+        "CustomerID": 743,
+        "BranchID": 776,
+        "SaleDate": "2022-11-16",
+        "TotalAmount": 2804.65
+    },
+    {
+        "CustomerID": 250,
+        "BranchID": 724,
+        "SaleDate": "2022-05-17",
+        "TotalAmount": 19580.81
+    },
+    {
+        "CustomerID": 43,
+        "BranchID": 300,
+        "SaleDate": "2025-02-10",
+        "TotalAmount": 8033.55
+    },
+    {
+        "CustomerID": 945,
+        "BranchID": 642,
+        "SaleDate": "2025-05-30",
+        "TotalAmount": 3666.65
+    },
+    {
+        "CustomerID": 469,
+        "BranchID": 589,
+        "SaleDate": "2021-08-22",
+        "TotalAmount": 15218.02
+    },
+    {
+        "CustomerID": 457,
+        "BranchID": 148,
+        "SaleDate": "2023-03-17",
+        "TotalAmount": 14278.17
+    },
+    {
+        "CustomerID": 981,
+        "BranchID": 988,
+        "SaleDate": "2020-06-01",
+        "TotalAmount": 11269.73
+    },
+    {
+        "CustomerID": 610,
+        "BranchID": 850,
+        "SaleDate": "2021-01-28",
+        "TotalAmount": 19771.16
+    },
+    {
+        "CustomerID": 723,
+        "BranchID": 87,
+        "SaleDate": "2023-07-02",
+        "TotalAmount": 2961.22
+    },
+    {
+        "CustomerID": 131,
+        "BranchID": 430,
+        "SaleDate": "2024-03-18",
+        "TotalAmount": 16859.29
+    },
+    {
+        "CustomerID": 539,
+        "BranchID": 954,
+        "SaleDate": "2024-08-18",
+        "TotalAmount": 9207.32
+    },
+    {
+        "CustomerID": 586,
+        "BranchID": 51,
+        "SaleDate": "2022-11-25",
+        "TotalAmount": 5528.44
+    },
+    {
+        "CustomerID": 974,
+        "BranchID": 367,
+        "SaleDate": "2024-06-04",
+        "TotalAmount": 4184.19
+    },
+    {
+        "CustomerID": 37,
+        "BranchID": 689,
+        "SaleDate": "2024-12-08",
+        "TotalAmount": 4569.9
+    },
+    {
+        "CustomerID": 225,
+        "BranchID": 611,
+        "SaleDate": "2025-06-04",
+        "TotalAmount": 14419.4
+    },
+    {
+        "CustomerID": 914,
+        "BranchID": 523,
+        "SaleDate": "2025-04-11",
+        "TotalAmount": 450.1
+    },
+    {
+        "CustomerID": 787,
+        "BranchID": 683,
+        "SaleDate": "2020-05-02",
+        "TotalAmount": 6022.13
+    },
+    {
+        "CustomerID": 171,
+        "BranchID": 634,
+        "SaleDate": "2024-10-18",
+        "TotalAmount": 8441.89
+    },
+    {
+        "CustomerID": 346,
+        "BranchID": 742,
+        "SaleDate": "2022-05-07",
+        "TotalAmount": 5112.14
+    },
+    {
+        "CustomerID": 525,
+        "BranchID": 109,
+        "SaleDate": "2022-03-11",
+        "TotalAmount": 19666.08
+    },
+    {
+        "CustomerID": 583,
+        "BranchID": 678,
+        "SaleDate": "2021-10-28",
+        "TotalAmount": 15531.91
+    },
+    {
+        "CustomerID": 953,
+        "BranchID": 979,
+        "SaleDate": "2020-02-18",
+        "TotalAmount": 9537.46
+    },
+    {
+        "CustomerID": 165,
+        "BranchID": 979,
+        "SaleDate": "2024-04-28",
+        "TotalAmount": 14962.42
+    },
+    {
+        "CustomerID": 141,
+        "BranchID": 965,
+        "SaleDate": "2021-11-29",
+        "TotalAmount": 10956.13
+    },
+    {
+        "CustomerID": 740,
+        "BranchID": 885,
+        "SaleDate": "2021-10-15",
+        "TotalAmount": 19058.21
+    },
+    {
+        "CustomerID": 495,
+        "BranchID": 765,
+        "SaleDate": "2021-09-29",
+        "TotalAmount": 6142.2
+    },
+    {
+        "CustomerID": 660,
+        "BranchID": 392,
+        "SaleDate": "2024-02-19",
+        "TotalAmount": 7721.5
+    },
+    {
+        "CustomerID": 934,
+        "BranchID": 823,
+        "SaleDate": "2022-07-30",
+        "TotalAmount": 1225.94
+    },
+    {
+        "CustomerID": 989,
+        "BranchID": 206,
+        "SaleDate": "2024-01-06",
+        "TotalAmount": 13335.3
+    },
+    {
+        "CustomerID": 408,
+        "BranchID": 301,
+        "SaleDate": "2023-09-25",
+        "TotalAmount": 4405.05
+    },
+    {
+        "CustomerID": 369,
+        "BranchID": 794,
+        "SaleDate": "2021-07-28",
+        "TotalAmount": 13333.23
+    },
+    {
+        "CustomerID": 833,
+        "BranchID": 795,
+        "SaleDate": "2021-11-05",
+        "TotalAmount": 1714.53
+    },
+    {
+        "CustomerID": 934,
+        "BranchID": 759,
+        "SaleDate": "2021-03-27",
+        "TotalAmount": 6522.66
+    },
+    {
+        "CustomerID": 790,
+        "BranchID": 578,
+        "SaleDate": "2021-10-18",
+        "TotalAmount": 1397.26
+    },
+    {
+        "CustomerID": 776,
+        "BranchID": 806,
+        "SaleDate": "2021-04-26",
+        "TotalAmount": 5788.29
+    },
+    {
+        "CustomerID": 568,
+        "BranchID": 212,
+        "SaleDate": "2022-08-28",
+        "TotalAmount": 12953.17
+    },
+    {
+        "CustomerID": 266,
+        "BranchID": 928,
+        "SaleDate": "2023-10-05",
+        "TotalAmount": 7099.95
+    },
+    {
+        "CustomerID": 487,
+        "BranchID": 396,
+        "SaleDate": "2020-01-26",
+        "TotalAmount": 6933.17
+    },
+    {
+        "CustomerID": 573,
+        "BranchID": 333,
+        "SaleDate": "2024-05-14",
+        "TotalAmount": 10932.35
+    },
+    {
+        "CustomerID": 267,
+        "BranchID": 826,
+        "SaleDate": "2023-01-12",
+        "TotalAmount": 3256.65
+    },
+    {
+        "CustomerID": 37,
+        "BranchID": 158,
+        "SaleDate": "2022-01-18",
+        "TotalAmount": 16176.0
+    },
+    {
+        "CustomerID": 849,
+        "BranchID": 431,
+        "SaleDate": "2024-09-08",
+        "TotalAmount": 19134.58
+    },
+    {
+        "CustomerID": 772,
+        "BranchID": 617,
+        "SaleDate": "2021-02-06",
+        "TotalAmount": 3076.35
+    },
+    {
+        "CustomerID": 252,
+        "BranchID": 384,
+        "SaleDate": "2021-02-22",
+        "TotalAmount": 15056.09
+    },
+    {
+        "CustomerID": 529,
+        "BranchID": 922,
+        "SaleDate": "2021-01-30",
+        "TotalAmount": 11642.26
+    },
+    {
+        "CustomerID": 302,
+        "BranchID": 162,
+        "SaleDate": "2022-01-09",
+        "TotalAmount": 13877.71
+    },
+    {
+        "CustomerID": 769,
+        "BranchID": 310,
+        "SaleDate": "2025-02-23",
+        "TotalAmount": 1011.48
+    },
+    {
+        "CustomerID": 615,
+        "BranchID": 720,
+        "SaleDate": "2024-11-02",
+        "TotalAmount": 2824.85
+    },
+    {
+        "CustomerID": 526,
+        "BranchID": 107,
+        "SaleDate": "2024-08-26",
+        "TotalAmount": 4305.6
+    },
+    {
+        "CustomerID": 106,
+        "BranchID": 323,
+        "SaleDate": "2022-04-21",
+        "TotalAmount": 16170.0
+    },
+    {
+        "CustomerID": 684,
+        "BranchID": 236,
+        "SaleDate": "2024-01-08",
+        "TotalAmount": 8784.44
+    },
+    {
+        "CustomerID": 303,
+        "BranchID": 982,
+        "SaleDate": "2022-03-04",
+        "TotalAmount": 13147.41
+    },
+    {
+        "CustomerID": 235,
+        "BranchID": 722,
+        "SaleDate": "2025-01-20",
+        "TotalAmount": 6602.65
+    },
+    {
+        "CustomerID": 200,
+        "BranchID": 972,
+        "SaleDate": "2025-03-13",
+        "TotalAmount": 8093.84
+    },
+    {
+        "CustomerID": 575,
+        "BranchID": 199,
+        "SaleDate": "2024-03-20",
+        "TotalAmount": 14372.85
+    },
+    {
+        "CustomerID": 794,
+        "BranchID": 212,
+        "SaleDate": "2020-12-15",
+        "TotalAmount": 14042.01
+    },
+    {
+        "CustomerID": 745,
+        "BranchID": 904,
+        "SaleDate": "2024-11-16",
+        "TotalAmount": 3374.21
+    },
+    {
+        "CustomerID": 825,
+        "BranchID": 121,
+        "SaleDate": "2025-04-23",
+        "TotalAmount": 5041.89
+    },
+    {
+        "CustomerID": 179,
+        "BranchID": 445,
+        "SaleDate": "2020-04-11",
+        "TotalAmount": 17501.28
+    },
+    {
+        "CustomerID": 944,
+        "BranchID": 236,
+        "SaleDate": "2021-07-04",
+        "TotalAmount": 8485.29
+    },
+    {
+        "CustomerID": 949,
+        "BranchID": 341,
+        "SaleDate": "2021-02-26",
+        "TotalAmount": 6346.62
+    },
+    {
+        "CustomerID": 694,
+        "BranchID": 361,
+        "SaleDate": "2023-05-06",
+        "TotalAmount": 12146.3
+    },
+    {
+        "CustomerID": 55,
+        "BranchID": 782,
+        "SaleDate": "2024-10-09",
+        "TotalAmount": 7862.08
+    },
+    {
+        "CustomerID": 618,
+        "BranchID": 523,
+        "SaleDate": "2024-11-02",
+        "TotalAmount": 12816.12
+    },
+    {
+        "CustomerID": 334,
+        "BranchID": 90,
+        "SaleDate": "2024-09-09",
+        "TotalAmount": 4000.62
+    },
+    {
+        "CustomerID": 189,
+        "BranchID": 293,
+        "SaleDate": "2024-10-13",
+        "TotalAmount": 5300.85
+    },
+    {
+        "CustomerID": 960,
+        "BranchID": 844,
+        "SaleDate": "2024-11-26",
+        "TotalAmount": 19998.09
+    },
+    {
+        "CustomerID": 917,
+        "BranchID": 479,
+        "SaleDate": "2023-07-31",
+        "TotalAmount": 14091.84
+    },
+    {
+        "CustomerID": 570,
+        "BranchID": 880,
+        "SaleDate": "2020-02-25",
+        "TotalAmount": 9674.47
+    },
+    {
+        "CustomerID": 97,
+        "BranchID": 916,
+        "SaleDate": "2025-06-24",
+        "TotalAmount": 17041.1
+    },
+    {
+        "CustomerID": 886,
+        "BranchID": 596,
+        "SaleDate": "2023-06-07",
+        "TotalAmount": 13879.27
+    },
+    {
+        "CustomerID": 672,
+        "BranchID": 675,
+        "SaleDate": "2023-02-14",
+        "TotalAmount": 1623.12
+    },
+    {
+        "CustomerID": 205,
+        "BranchID": 445,
+        "SaleDate": "2020-10-15",
+        "TotalAmount": 19846.08
+    },
+    {
+        "CustomerID": 967,
+        "BranchID": 27,
+        "SaleDate": "2022-03-23",
+        "TotalAmount": 15549.42
+    },
+    {
+        "CustomerID": 748,
+        "BranchID": 734,
+        "SaleDate": "2024-12-03",
+        "TotalAmount": 8798.45
+    },
+    {
+        "CustomerID": 576,
+        "BranchID": 268,
+        "SaleDate": "2023-02-28",
+        "TotalAmount": 10424.61
+    },
+    {
+        "CustomerID": 569,
+        "BranchID": 742,
+        "SaleDate": "2021-09-26",
+        "TotalAmount": 3941.68
+    },
+    {
+        "CustomerID": 939,
+        "BranchID": 712,
+        "SaleDate": "2021-04-22",
+        "TotalAmount": 19181.8
+    },
+    {
+        "CustomerID": 379,
+        "BranchID": 475,
+        "SaleDate": "2020-10-18",
+        "TotalAmount": 13664.29
+    },
+    {
+        "CustomerID": 723,
+        "BranchID": 824,
+        "SaleDate": "2021-09-10",
+        "TotalAmount": 405.06
+    },
+    {
+        "CustomerID": 42,
+        "BranchID": 931,
+        "SaleDate": "2023-09-03",
+        "TotalAmount": 11758.72
+    },
+    {
+        "CustomerID": 172,
+        "BranchID": 874,
+        "SaleDate": "2025-04-06",
+        "TotalAmount": 440.78
+    },
+    {
+        "CustomerID": 144,
+        "BranchID": 506,
+        "SaleDate": "2024-08-21",
+        "TotalAmount": 13837.48
+    },
+    {
+        "CustomerID": 351,
+        "BranchID": 378,
+        "SaleDate": "2024-04-27",
+        "TotalAmount": 17650.9
+    },
+    {
+        "CustomerID": 211,
+        "BranchID": 883,
+        "SaleDate": "2025-01-09",
+        "TotalAmount": 9324.83
+    },
+    {
+        "CustomerID": 92,
+        "BranchID": 821,
+        "SaleDate": "2023-07-09",
+        "TotalAmount": 18619.81
+    },
+    {
+        "CustomerID": 440,
+        "BranchID": 921,
+        "SaleDate": "2020-11-12",
+        "TotalAmount": 18362.07
+    },
+    {
+        "CustomerID": 894,
+        "BranchID": 883,
+        "SaleDate": "2022-04-11",
+        "TotalAmount": 17136.78
+    },
+    {
+        "CustomerID": 997,
+        "BranchID": 156,
+        "SaleDate": "2022-07-10",
+        "TotalAmount": 17006.29
+    },
+    {
+        "CustomerID": 120,
+        "BranchID": 26,
+        "SaleDate": "2022-09-03",
+        "TotalAmount": 6681.72
+    },
+    {
+        "CustomerID": 838,
+        "BranchID": 727,
+        "SaleDate": "2023-11-23",
+        "TotalAmount": 18723.83
+    },
+    {
+        "CustomerID": 445,
+        "BranchID": 591,
+        "SaleDate": "2025-04-24",
+        "TotalAmount": 11339.04
+    },
+    {
+        "CustomerID": 816,
+        "BranchID": 742,
+        "SaleDate": "2024-07-06",
+        "TotalAmount": 12830.55
+    },
+    {
+        "CustomerID": 301,
+        "BranchID": 701,
+        "SaleDate": "2023-05-01",
+        "TotalAmount": 6395.79
+    },
+    {
+        "CustomerID": 872,
+        "BranchID": 101,
+        "SaleDate": "2024-11-21",
+        "TotalAmount": 18469.2
+    },
+    {
+        "CustomerID": 583,
+        "BranchID": 289,
+        "SaleDate": "2020-08-17",
+        "TotalAmount": 6955.75
+    },
+    {
+        "CustomerID": 833,
+        "BranchID": 310,
+        "SaleDate": "2020-06-25",
+        "TotalAmount": 4236.88
+    },
+    {
+        "CustomerID": 906,
+        "BranchID": 258,
+        "SaleDate": "2020-01-12",
+        "TotalAmount": 467.03
+    },
+    {
+        "CustomerID": 101,
+        "BranchID": 449,
+        "SaleDate": "2020-12-15",
+        "TotalAmount": 11188.43
+    },
+    {
+        "CustomerID": 413,
+        "BranchID": 723,
+        "SaleDate": "2022-01-24",
+        "TotalAmount": 11170.33
+    },
+    {
+        "CustomerID": 723,
+        "BranchID": 573,
+        "SaleDate": "2025-05-30",
+        "TotalAmount": 19179.13
+    },
+    {
+        "CustomerID": 639,
+        "BranchID": 637,
+        "SaleDate": "2020-04-09",
+        "TotalAmount": 17781.8
+    },
+    {
+        "CustomerID": 848,
+        "BranchID": 973,
+        "SaleDate": "2024-09-19",
+        "TotalAmount": 6976.83
+    },
+    {
+        "CustomerID": 236,
+        "BranchID": 297,
+        "SaleDate": "2022-08-29",
+        "TotalAmount": 4618.96
+    },
+    {
+        "CustomerID": 398,
+        "BranchID": 459,
+        "SaleDate": "2024-09-01",
+        "TotalAmount": 6326.08
+    },
+    {
+        "CustomerID": 844,
+        "BranchID": 632,
+        "SaleDate": "2022-07-08",
+        "TotalAmount": 2996.19
+    },
+    {
+        "CustomerID": 310,
+        "BranchID": 661,
+        "SaleDate": "2021-06-05",
+        "TotalAmount": 9824.58
+    },
+    {
+        "CustomerID": 378,
+        "BranchID": 747,
+        "SaleDate": "2022-06-22",
+        "TotalAmount": 13960.6
+    },
+    {
+        "CustomerID": 970,
+        "BranchID": 420,
+        "SaleDate": "2021-04-28",
+        "TotalAmount": 10518.45
+    },
+    {
+        "CustomerID": 469,
+        "BranchID": 465,
+        "SaleDate": "2025-05-23",
+        "TotalAmount": 15962.12
+    },
+    {
+        "CustomerID": 449,
+        "BranchID": 54,
+        "SaleDate": "2024-03-06",
+        "TotalAmount": 8113.12
+    },
+    {
+        "CustomerID": 56,
+        "BranchID": 295,
+        "SaleDate": "2022-05-31",
+        "TotalAmount": 11427.59
+    },
+    {
+        "CustomerID": 523,
+        "BranchID": 900,
+        "SaleDate": "2023-08-17",
+        "TotalAmount": 6110.38
+    },
+    {
+        "CustomerID": 562,
+        "BranchID": 540,
+        "SaleDate": "2020-11-27",
+        "TotalAmount": 65.84
+    },
+    {
+        "CustomerID": 163,
+        "BranchID": 290,
+        "SaleDate": "2023-05-14",
+        "TotalAmount": 8879.34
+    },
+    {
+        "CustomerID": 253,
+        "BranchID": 698,
+        "SaleDate": "2020-11-29",
+        "TotalAmount": 13122.91
+    },
+    {
+        "CustomerID": 59,
+        "BranchID": 895,
+        "SaleDate": "2022-04-27",
+        "TotalAmount": 19729.36
+    },
+    {
+        "CustomerID": 255,
+        "BranchID": 943,
+        "SaleDate": "2022-02-28",
+        "TotalAmount": 4012.8
+    },
+    {
+        "CustomerID": 928,
+        "BranchID": 163,
+        "SaleDate": "2023-11-26",
+        "TotalAmount": 3185.23
+    },
+    {
+        "CustomerID": 509,
+        "BranchID": 994,
+        "SaleDate": "2025-03-04",
+        "TotalAmount": 3085.28
+    },
+    {
+        "CustomerID": 25,
+        "BranchID": 258,
+        "SaleDate": "2023-01-28",
+        "TotalAmount": 19191.48
+    },
+    {
+        "CustomerID": 695,
+        "BranchID": 292,
+        "SaleDate": "2020-10-24",
+        "TotalAmount": 11198.17
+    },
+    {
+        "CustomerID": 846,
+        "BranchID": 356,
+        "SaleDate": "2023-11-24",
+        "TotalAmount": 10732.7
+    },
+    {
+        "CustomerID": 643,
+        "BranchID": 477,
+        "SaleDate": "2024-11-22",
+        "TotalAmount": 17174.41
+    },
+    {
+        "CustomerID": 825,
+        "BranchID": 781,
+        "SaleDate": "2025-06-11",
+        "TotalAmount": 14717.48
+    },
+    {
+        "CustomerID": 839,
+        "BranchID": 889,
+        "SaleDate": "2020-09-03",
+        "TotalAmount": 848.86
+    },
+    {
+        "CustomerID": 222,
+        "BranchID": 234,
+        "SaleDate": "2025-06-04",
+        "TotalAmount": 15796.27
+    },
+    {
+        "CustomerID": 242,
+        "BranchID": 396,
+        "SaleDate": "2021-01-28",
+        "TotalAmount": 3392.89
+    },
+    {
+        "CustomerID": 985,
+        "BranchID": 186,
+        "SaleDate": "2020-03-08",
+        "TotalAmount": 19312.24
+    },
+    {
+        "CustomerID": 71,
+        "BranchID": 519,
+        "SaleDate": "2022-01-23",
+        "TotalAmount": 1775.15
+    },
+    {
+        "CustomerID": 460,
+        "BranchID": 968,
+        "SaleDate": "2020-02-04",
+        "TotalAmount": 6048.48
+    },
+    {
+        "CustomerID": 195,
+        "BranchID": 634,
+        "SaleDate": "2020-01-23",
+        "TotalAmount": 5665.52
+    },
+    {
+        "CustomerID": 903,
+        "BranchID": 409,
+        "SaleDate": "2021-06-29",
+        "TotalAmount": 18853.42
+    },
+    {
+        "CustomerID": 409,
+        "BranchID": 490,
+        "SaleDate": "2022-07-02",
+        "TotalAmount": 4609.36
+    },
+    {
+        "CustomerID": 217,
+        "BranchID": 570,
+        "SaleDate": "2025-04-11",
+        "TotalAmount": 19174.09
+    },
+    {
+        "CustomerID": 436,
+        "BranchID": 514,
+        "SaleDate": "2024-09-27",
+        "TotalAmount": 15968.01
+    },
+    {
+        "CustomerID": 988,
+        "BranchID": 988,
+        "SaleDate": "2025-03-30",
+        "TotalAmount": 8695.75
+    },
+    {
+        "CustomerID": 410,
+        "BranchID": 221,
+        "SaleDate": "2023-12-19",
+        "TotalAmount": 2002.98
+    },
+    {
+        "CustomerID": 660,
+        "BranchID": 232,
+        "SaleDate": "2025-07-07",
+        "TotalAmount": 6598.18
+    },
+    {
+        "CustomerID": 454,
+        "BranchID": 733,
+        "SaleDate": "2025-07-25",
+        "TotalAmount": 15620.53
+    },
+    {
+        "CustomerID": 589,
+        "BranchID": 789,
+        "SaleDate": "2021-10-09",
+        "TotalAmount": 915.73
+    },
+    {
+        "CustomerID": 548,
+        "BranchID": 121,
+        "SaleDate": "2025-07-21",
+        "TotalAmount": 12835.86
+    },
+    {
+        "CustomerID": 908,
+        "BranchID": 946,
+        "SaleDate": "2024-10-01",
+        "TotalAmount": 15135.5
+    },
+    {
+        "CustomerID": 347,
+        "BranchID": 647,
+        "SaleDate": "2024-08-12",
+        "TotalAmount": 9958.09
+    },
+    {
+        "CustomerID": 718,
+        "BranchID": 130,
+        "SaleDate": "2022-10-25",
+        "TotalAmount": 6699.44
+    },
+    {
+        "CustomerID": 859,
+        "BranchID": 867,
+        "SaleDate": "2023-05-25",
+        "TotalAmount": 17357.52
+    },
+    {
+        "CustomerID": 131,
+        "BranchID": 827,
+        "SaleDate": "2020-12-18",
+        "TotalAmount": 13535.95
+    },
+    {
+        "CustomerID": 600,
+        "BranchID": 952,
+        "SaleDate": "2023-05-27",
+        "TotalAmount": 6676.25
+    },
+    {
+        "CustomerID": 571,
+        "BranchID": 19,
+        "SaleDate": "2021-09-29",
+        "TotalAmount": 3216.53
+    },
+    {
+        "CustomerID": 195,
+        "BranchID": 594,
+        "SaleDate": "2021-02-17",
+        "TotalAmount": 8952.19
+    },
+    {
+        "CustomerID": 838,
+        "BranchID": 51,
+        "SaleDate": "2023-04-25",
+        "TotalAmount": 14014.87
+    },
+    {
+        "CustomerID": 879,
+        "BranchID": 803,
+        "SaleDate": "2025-01-10",
+        "TotalAmount": 1062.42
+    },
+    {
+        "CustomerID": 897,
+        "BranchID": 756,
+        "SaleDate": "2020-06-12",
+        "TotalAmount": 10824.9
+    },
+    {
+        "CustomerID": 530,
+        "BranchID": 770,
+        "SaleDate": "2023-04-01",
+        "TotalAmount": 16220.62
+    },
+    {
+        "CustomerID": 793,
+        "BranchID": 236,
+        "SaleDate": "2024-07-18",
+        "TotalAmount": 12262.92
+    },
+    {
+        "CustomerID": 647,
+        "BranchID": 646,
+        "SaleDate": "2020-10-05",
+        "TotalAmount": 10013.81
+    },
+    {
+        "CustomerID": 927,
+        "BranchID": 135,
+        "SaleDate": "2024-07-17",
+        "TotalAmount": 17979.41
+    },
+    {
+        "CustomerID": 339,
+        "BranchID": 439,
+        "SaleDate": "2020-06-22",
+        "TotalAmount": 9094.99
+    },
+    {
+        "CustomerID": 49,
+        "BranchID": 733,
+        "SaleDate": "2021-04-30",
+        "TotalAmount": 12500.0
+    },
+    {
+        "CustomerID": 330,
+        "BranchID": 293,
+        "SaleDate": "2020-09-04",
+        "TotalAmount": 14690.67
+    },
+    {
+        "CustomerID": 426,
+        "BranchID": 547,
+        "SaleDate": "2025-05-23",
+        "TotalAmount": 11831.54
+    },
+    {
+        "CustomerID": 559,
+        "BranchID": 105,
+        "SaleDate": "2023-07-22",
+        "TotalAmount": 17511.16
+    },
+    {
+        "CustomerID": 467,
+        "BranchID": 320,
+        "SaleDate": "2023-12-11",
+        "TotalAmount": 7045.54
+    },
+    {
+        "CustomerID": 249,
+        "BranchID": 442,
+        "SaleDate": "2024-06-29",
+        "TotalAmount": 5084.47
+    },
+    {
+        "CustomerID": 176,
+        "BranchID": 607,
+        "SaleDate": "2023-12-29",
+        "TotalAmount": 14272.84
+    },
+    {
+        "CustomerID": 461,
+        "BranchID": 160,
+        "SaleDate": "2023-08-29",
+        "TotalAmount": 6317.23
+    },
+    {
+        "CustomerID": 205,
+        "BranchID": 881,
+        "SaleDate": "2025-06-10",
+        "TotalAmount": 10805.72
+    },
+    {
+        "CustomerID": 868,
+        "BranchID": 643,
+        "SaleDate": "2023-03-20",
+        "TotalAmount": 19033.86
+    },
+    {
+        "CustomerID": 88,
+        "BranchID": 809,
+        "SaleDate": "2020-11-20",
+        "TotalAmount": 7461.23
+    },
+    {
+        "CustomerID": 391,
+        "BranchID": 675,
+        "SaleDate": "2022-07-08",
+        "TotalAmount": 646.54
+    },
+    {
+        "CustomerID": 83,
+        "BranchID": 409,
+        "SaleDate": "2020-03-25",
+        "TotalAmount": 9899.92
+    },
+    {
+        "CustomerID": 310,
+        "BranchID": 756,
+        "SaleDate": "2021-09-17",
+        "TotalAmount": 11792.74
+    },
+    {
+        "CustomerID": 532,
+        "BranchID": 235,
+        "SaleDate": "2024-06-27",
+        "TotalAmount": 5105.84
+    },
+    {
+        "CustomerID": 926,
+        "BranchID": 74,
+        "SaleDate": "2023-03-08",
+        "TotalAmount": 12945.73
+    },
+    {
+        "CustomerID": 409,
+        "BranchID": 833,
+        "SaleDate": "2022-11-26",
+        "TotalAmount": 17954.24
+    },
+    {
+        "CustomerID": 904,
+        "BranchID": 821,
+        "SaleDate": "2023-05-06",
+        "TotalAmount": 14023.82
+    },
+    {
+        "CustomerID": 216,
+        "BranchID": 854,
+        "SaleDate": "2024-04-13",
+        "TotalAmount": 15910.13
+    },
+    {
+        "CustomerID": 688,
+        "BranchID": 653,
+        "SaleDate": "2020-09-21",
+        "TotalAmount": 2264.29
+    },
+    {
+        "CustomerID": 443,
+        "BranchID": 124,
+        "SaleDate": "2022-03-21",
+        "TotalAmount": 12208.48
+    },
+    {
+        "CustomerID": 252,
+        "BranchID": 267,
+        "SaleDate": "2021-09-05",
+        "TotalAmount": 17028.72
+    },
+    {
+        "CustomerID": 360,
+        "BranchID": 665,
+        "SaleDate": "2025-06-04",
+        "TotalAmount": 13812.05
+    },
+    {
+        "CustomerID": 332,
+        "BranchID": 227,
+        "SaleDate": "2023-02-26",
+        "TotalAmount": 92.96
+    },
+    {
+        "CustomerID": 624,
+        "BranchID": 380,
+        "SaleDate": "2024-12-18",
+        "TotalAmount": 2510.87
+    },
+    {
+        "CustomerID": 277,
+        "BranchID": 38,
+        "SaleDate": "2024-04-19",
+        "TotalAmount": 3035.55
+    },
+    {
+        "CustomerID": 510,
+        "BranchID": 404,
+        "SaleDate": "2024-11-18",
+        "TotalAmount": 15127.7
+    },
+    {
+        "CustomerID": 997,
+        "BranchID": 520,
+        "SaleDate": "2020-01-23",
+        "TotalAmount": 7051.2
+    },
+    {
+        "CustomerID": 840,
+        "BranchID": 582,
+        "SaleDate": "2021-04-07",
+        "TotalAmount": 1080.89
+    },
+    {
+        "CustomerID": 157,
+        "BranchID": 926,
+        "SaleDate": "2024-01-01",
+        "TotalAmount": 16882.85
+    },
+    {
+        "CustomerID": 451,
+        "BranchID": 929,
+        "SaleDate": "2023-10-06",
+        "TotalAmount": 6680.62
+    },
+    {
+        "CustomerID": 653,
+        "BranchID": 347,
+        "SaleDate": "2022-09-20",
+        "TotalAmount": 6618.27
+    },
+    {
+        "CustomerID": 443,
+        "BranchID": 408,
+        "SaleDate": "2023-12-22",
+        "TotalAmount": 17046.12
+    },
+    {
+        "CustomerID": 362,
+        "BranchID": 238,
+        "SaleDate": "2023-05-18",
+        "TotalAmount": 16093.64
+    },
+    {
+        "CustomerID": 780,
+        "BranchID": 285,
+        "SaleDate": "2020-03-28",
+        "TotalAmount": 6677.54
+    },
+    {
+        "CustomerID": 607,
+        "BranchID": 596,
+        "SaleDate": "2020-02-21",
+        "TotalAmount": 10369.39
+    },
+    {
+        "CustomerID": 178,
+        "BranchID": 500,
+        "SaleDate": "2023-09-22",
+        "TotalAmount": 4650.52
+    },
+    {
+        "CustomerID": 106,
+        "BranchID": 475,
+        "SaleDate": "2024-12-20",
+        "TotalAmount": 13738.9
+    },
+    {
+        "CustomerID": 508,
+        "BranchID": 500,
+        "SaleDate": "2022-10-09",
+        "TotalAmount": 5695.57
+    },
+    {
+        "CustomerID": 526,
+        "BranchID": 887,
+        "SaleDate": "2020-03-14",
+        "TotalAmount": 6544.27
+    },
+    {
+        "CustomerID": 988,
+        "BranchID": 215,
+        "SaleDate": "2024-12-08",
+        "TotalAmount": 7790.73
+    },
+    {
+        "CustomerID": 223,
+        "BranchID": 64,
+        "SaleDate": "2020-11-11",
+        "TotalAmount": 4058.25
+    },
+    {
+        "CustomerID": 684,
+        "BranchID": 682,
+        "SaleDate": "2025-06-08",
+        "TotalAmount": 8697.76
+    },
+    {
+        "CustomerID": 532,
+        "BranchID": 100,
+        "SaleDate": "2020-02-13",
+        "TotalAmount": 2838.4
+    },
+    {
+        "CustomerID": 220,
+        "BranchID": 478,
+        "SaleDate": "2024-09-15",
+        "TotalAmount": 11617.11
+    },
+    {
+        "CustomerID": 130,
+        "BranchID": 238,
+        "SaleDate": "2020-10-27",
+        "TotalAmount": 1236.76
+    },
+    {
+        "CustomerID": 789,
+        "BranchID": 456,
+        "SaleDate": "2025-03-18",
+        "TotalAmount": 16566.62
+    },
+    {
+        "CustomerID": 763,
+        "BranchID": 889,
+        "SaleDate": "2020-03-29",
+        "TotalAmount": 4868.65
+    },
+    {
+        "CustomerID": 117,
+        "BranchID": 144,
+        "SaleDate": "2024-12-08",
+        "TotalAmount": 6485.76
+    },
+    {
+        "CustomerID": 607,
+        "BranchID": 78,
+        "SaleDate": "2022-06-08",
+        "TotalAmount": 1437.29
+    },
+    {
+        "CustomerID": 23,
+        "BranchID": 306,
+        "SaleDate": "2024-05-25",
+        "TotalAmount": 3652.31
+    },
+    {
+        "CustomerID": 468,
+        "BranchID": 41,
+        "SaleDate": "2022-01-29",
+        "TotalAmount": 2356.1
+    },
+    {
+        "CustomerID": 974,
+        "BranchID": 218,
+        "SaleDate": "2023-01-07",
+        "TotalAmount": 11584.71
+    },
+    {
+        "CustomerID": 616,
+        "BranchID": 385,
+        "SaleDate": "2024-11-04",
+        "TotalAmount": 16629.66
+    },
+    {
+        "CustomerID": 471,
+        "BranchID": 210,
+        "SaleDate": "2020-07-17",
+        "TotalAmount": 3204.11
+    },
+    {
+        "CustomerID": 572,
+        "BranchID": 559,
+        "SaleDate": "2022-01-31",
+        "TotalAmount": 13289.29
+    },
+    {
+        "CustomerID": 112,
+        "BranchID": 258,
+        "SaleDate": "2020-10-25",
+        "TotalAmount": 10231.75
+    },
+    {
+        "CustomerID": 392,
+        "BranchID": 3,
+        "SaleDate": "2023-02-09",
+        "TotalAmount": 10210.59
+    },
+    {
+        "CustomerID": 336,
+        "BranchID": 98,
+        "SaleDate": "2020-07-08",
+        "TotalAmount": 3729.01
+    },
+    {
+        "CustomerID": 256,
+        "BranchID": 884,
+        "SaleDate": "2024-02-07",
+        "TotalAmount": 7489.07
+    },
+    {
+        "CustomerID": 12,
+        "BranchID": 725,
+        "SaleDate": "2024-08-27",
+        "TotalAmount": 4555.26
+    },
+    {
+        "CustomerID": 859,
+        "BranchID": 712,
+        "SaleDate": "2021-09-10",
+        "TotalAmount": 9149.42
+    },
+    {
+        "CustomerID": 213,
+        "BranchID": 276,
+        "SaleDate": "2020-11-07",
+        "TotalAmount": 7524.0
+    },
+    {
+        "CustomerID": 476,
+        "BranchID": 611,
+        "SaleDate": "2023-11-28",
+        "TotalAmount": 7792.84
+    },
+    {
+        "CustomerID": 847,
+        "BranchID": 240,
+        "SaleDate": "2021-04-25",
+        "TotalAmount": 11979.14
+    },
+    {
+        "CustomerID": 700,
+        "BranchID": 190,
+        "SaleDate": "2022-03-01",
+        "TotalAmount": 5714.81
+    },
+    {
+        "CustomerID": 433,
+        "BranchID": 85,
+        "SaleDate": "2021-05-31",
+        "TotalAmount": 17549.9
+    },
+    {
+        "CustomerID": 652,
+        "BranchID": 943,
+        "SaleDate": "2023-07-01",
+        "TotalAmount": 15987.75
+    },
+    {
+        "CustomerID": 324,
+        "BranchID": 157,
+        "SaleDate": "2023-04-13",
+        "TotalAmount": 13210.71
+    },
+    {
+        "CustomerID": 136,
+        "BranchID": 921,
+        "SaleDate": "2025-03-11",
+        "TotalAmount": 10559.38
+    },
+    {
+        "CustomerID": 574,
+        "BranchID": 28,
+        "SaleDate": "2023-05-03",
+        "TotalAmount": 16538.92
+    },
+    {
+        "CustomerID": 527,
+        "BranchID": 497,
+        "SaleDate": "2021-12-22",
+        "TotalAmount": 18784.78
+    },
+    {
+        "CustomerID": 209,
+        "BranchID": 849,
+        "SaleDate": "2023-09-04",
+        "TotalAmount": 11182.53
+    },
+    {
+        "CustomerID": 599,
+        "BranchID": 27,
+        "SaleDate": "2025-06-08",
+        "TotalAmount": 4923.79
+    },
+    {
+        "CustomerID": 243,
+        "BranchID": 19,
+        "SaleDate": "2020-02-24",
+        "TotalAmount": 3916.01
+    },
+    {
+        "CustomerID": 520,
+        "BranchID": 35,
+        "SaleDate": "2023-03-22",
+        "TotalAmount": 9393.29
+    },
+    {
+        "CustomerID": 757,
+        "BranchID": 153,
+        "SaleDate": "2023-04-08",
+        "TotalAmount": 11746.74
+    },
+    {
+        "CustomerID": 491,
+        "BranchID": 443,
+        "SaleDate": "2025-04-23",
+        "TotalAmount": 19432.04
+    },
+    {
+        "CustomerID": 740,
+        "BranchID": 183,
+        "SaleDate": "2021-03-08",
+        "TotalAmount": 7311.7
+    },
+    {
+        "CustomerID": 185,
+        "BranchID": 507,
+        "SaleDate": "2025-01-29",
+        "TotalAmount": 17026.62
+    },
+    {
+        "CustomerID": 19,
+        "BranchID": 221,
+        "SaleDate": "2022-09-03",
+        "TotalAmount": 17467.74
+    },
+    {
+        "CustomerID": 824,
+        "BranchID": 180,
+        "SaleDate": "2020-10-26",
+        "TotalAmount": 4974.77
+    },
+    {
+        "CustomerID": 945,
+        "BranchID": 827,
+        "SaleDate": "2021-08-02",
+        "TotalAmount": 1130.55
+    },
+    {
+        "CustomerID": 599,
+        "BranchID": 333,
+        "SaleDate": "2020-05-28",
+        "TotalAmount": 14662.58
+    },
+    {
+        "CustomerID": 538,
+        "BranchID": 447,
+        "SaleDate": "2021-01-14",
+        "TotalAmount": 19352.13
+    },
+    {
+        "CustomerID": 968,
+        "BranchID": 676,
+        "SaleDate": "2024-12-19",
+        "TotalAmount": 17651.71
+    },
+    {
+        "CustomerID": 373,
+        "BranchID": 707,
+        "SaleDate": "2021-09-12",
+        "TotalAmount": 6722.79
+    },
+    {
+        "CustomerID": 996,
+        "BranchID": 716,
+        "SaleDate": "2025-07-26",
+        "TotalAmount": 14155.91
+    },
+    {
+        "CustomerID": 540,
+        "BranchID": 302,
+        "SaleDate": "2023-07-07",
+        "TotalAmount": 5564.9
+    },
+    {
+        "CustomerID": 133,
+        "BranchID": 759,
+        "SaleDate": "2022-07-04",
+        "TotalAmount": 14202.41
+    },
+    {
+        "CustomerID": 984,
+        "BranchID": 907,
+        "SaleDate": "2024-04-18",
+        "TotalAmount": 15358.23
+    },
+    {
+        "CustomerID": 270,
+        "BranchID": 634,
+        "SaleDate": "2025-08-04",
+        "TotalAmount": 5472.19
+    },
+    {
+        "CustomerID": 363,
+        "BranchID": 760,
+        "SaleDate": "2020-12-15",
+        "TotalAmount": 8900.4
+    },
+    {
+        "CustomerID": 757,
+        "BranchID": 182,
+        "SaleDate": "2023-12-07",
+        "TotalAmount": 8482.3
+    },
+    {
+        "CustomerID": 647,
+        "BranchID": 427,
+        "SaleDate": "2022-04-13",
+        "TotalAmount": 7149.2
+    },
+    {
+        "CustomerID": 446,
+        "BranchID": 529,
+        "SaleDate": "2024-06-19",
+        "TotalAmount": 7621.23
+    },
+    {
+        "CustomerID": 641,
+        "BranchID": 801,
+        "SaleDate": "2023-06-05",
+        "TotalAmount": 5852.78
+    },
+    {
+        "CustomerID": 664,
+        "BranchID": 60,
+        "SaleDate": "2023-09-01",
+        "TotalAmount": 1859.37
+    },
+    {
+        "CustomerID": 352,
+        "BranchID": 103,
+        "SaleDate": "2020-04-23",
+        "TotalAmount": 10562.33
+    },
+    {
+        "CustomerID": 98,
+        "BranchID": 986,
+        "SaleDate": "2024-06-15",
+        "TotalAmount": 1326.34
+    },
+    {
+        "CustomerID": 345,
+        "BranchID": 633,
+        "SaleDate": "2020-06-30",
+        "TotalAmount": 15821.81
+    },
+    {
+        "CustomerID": 424,
+        "BranchID": 212,
+        "SaleDate": "2021-11-20",
+        "TotalAmount": 7049.07
+    },
+    {
+        "CustomerID": 302,
+        "BranchID": 214,
+        "SaleDate": "2025-02-22",
+        "TotalAmount": 2087.55
+    },
+    {
+        "CustomerID": 675,
+        "BranchID": 625,
+        "SaleDate": "2021-05-14",
+        "TotalAmount": 4233.06
+    },
+    {
+        "CustomerID": 13,
+        "BranchID": 899,
+        "SaleDate": "2024-10-19",
+        "TotalAmount": 8809.42
+    },
+    {
+        "CustomerID": 669,
+        "BranchID": 310,
+        "SaleDate": "2024-11-26",
+        "TotalAmount": 15545.51
+    },
+    {
+        "CustomerID": 756,
+        "BranchID": 862,
+        "SaleDate": "2021-08-02",
+        "TotalAmount": 19584.11
+    },
+    {
+        "CustomerID": 625,
+        "BranchID": 368,
+        "SaleDate": "2023-07-31",
+        "TotalAmount": 13573.67
+    },
+    {
+        "CustomerID": 463,
+        "BranchID": 810,
+        "SaleDate": "2025-06-07",
+        "TotalAmount": 4690.19
+    },
+    {
+        "CustomerID": 298,
+        "BranchID": 156,
+        "SaleDate": "2021-07-16",
+        "TotalAmount": 13615.25
+    },
+    {
+        "CustomerID": 378,
+        "BranchID": 842,
+        "SaleDate": "2021-06-03",
+        "TotalAmount": 11786.53
+    },
+    {
+        "CustomerID": 965,
+        "BranchID": 919,
+        "SaleDate": "2024-10-29",
+        "TotalAmount": 13255.07
+    },
+    {
+        "CustomerID": 730,
+        "BranchID": 710,
+        "SaleDate": "2021-12-09",
+        "TotalAmount": 9784.09
+    },
+    {
+        "CustomerID": 224,
+        "BranchID": 403,
+        "SaleDate": "2025-07-25",
+        "TotalAmount": 10534.48
+    },
+    {
+        "CustomerID": 725,
+        "BranchID": 412,
+        "SaleDate": "2021-09-29",
+        "TotalAmount": 19132.85
+    },
+    {
+        "CustomerID": 471,
+        "BranchID": 689,
+        "SaleDate": "2022-09-05",
+        "TotalAmount": 1687.34
+    },
+    {
+        "CustomerID": 685,
+        "BranchID": 971,
+        "SaleDate": "2021-07-21",
+        "TotalAmount": 6464.04
+    },
+    {
+        "CustomerID": 778,
+        "BranchID": 329,
+        "SaleDate": "2024-09-26",
+        "TotalAmount": 17189.87
+    },
+    {
+        "CustomerID": 268,
+        "BranchID": 571,
+        "SaleDate": "2023-11-01",
+        "TotalAmount": 14563.57
+    },
+    {
+        "CustomerID": 495,
+        "BranchID": 44,
+        "SaleDate": "2023-06-03",
+        "TotalAmount": 13204.66
+    },
+    {
+        "CustomerID": 614,
+        "BranchID": 687,
+        "SaleDate": "2020-05-30",
+        "TotalAmount": 10654.31
+    },
+    {
+        "CustomerID": 297,
+        "BranchID": 286,
+        "SaleDate": "2022-07-24",
+        "TotalAmount": 1619.17
+    },
+    {
+        "CustomerID": 654,
+        "BranchID": 841,
+        "SaleDate": "2023-08-29",
+        "TotalAmount": 7347.07
+    },
+    {
+        "CustomerID": 90,
+        "BranchID": 582,
+        "SaleDate": "2023-05-16",
+        "TotalAmount": 11404.79
+    },
+    {
+        "CustomerID": 255,
+        "BranchID": 503,
+        "SaleDate": "2020-07-13",
+        "TotalAmount": 13783.78
+    },
+    {
+        "CustomerID": 627,
+        "BranchID": 972,
+        "SaleDate": "2024-06-20",
+        "TotalAmount": 2783.13
+    },
+    {
+        "CustomerID": 256,
+        "BranchID": 283,
+        "SaleDate": "2020-10-19",
+        "TotalAmount": 13482.26
+    },
+    {
+        "CustomerID": 281,
+        "BranchID": 891,
+        "SaleDate": "2022-08-03",
+        "TotalAmount": 314.22
+    },
+    {
+        "CustomerID": 216,
+        "BranchID": 987,
+        "SaleDate": "2024-09-30",
+        "TotalAmount": 4794.27
+    },
+    {
+        "CustomerID": 879,
+        "BranchID": 716,
+        "SaleDate": "2021-02-01",
+        "TotalAmount": 6305.3
+    },
+    {
+        "CustomerID": 479,
+        "BranchID": 639,
+        "SaleDate": "2021-05-24",
+        "TotalAmount": 4247.41
+    },
+    {
+        "CustomerID": 46,
+        "BranchID": 190,
+        "SaleDate": "2022-06-06",
+        "TotalAmount": 4145.73
+    },
+    {
+        "CustomerID": 590,
+        "BranchID": 787,
+        "SaleDate": "2021-12-22",
+        "TotalAmount": 16893.76
+    },
+    {
+        "CustomerID": 239,
+        "BranchID": 191,
+        "SaleDate": "2021-02-22",
+        "TotalAmount": 6013.76
+    },
+    {
+        "CustomerID": 893,
+        "BranchID": 797,
+        "SaleDate": "2025-06-22",
+        "TotalAmount": 10330.81
+    },
+    {
+        "CustomerID": 692,
+        "BranchID": 91,
+        "SaleDate": "2020-04-27",
+        "TotalAmount": 2865.89
+    },
+    {
+        "CustomerID": 619,
+        "BranchID": 714,
+        "SaleDate": "2021-04-13",
+        "TotalAmount": 8262.05
+    },
+    {
+        "CustomerID": 226,
+        "BranchID": 449,
+        "SaleDate": "2024-08-04",
+        "TotalAmount": 14612.68
+    },
+    {
+        "CustomerID": 172,
+        "BranchID": 397,
+        "SaleDate": "2025-03-10",
+        "TotalAmount": 10692.83
+    },
+    {
+        "CustomerID": 813,
+        "BranchID": 226,
+        "SaleDate": "2023-03-15",
+        "TotalAmount": 7933.03
+    },
+    {
+        "CustomerID": 997,
+        "BranchID": 509,
+        "SaleDate": "2022-09-19",
+        "TotalAmount": 5646.88
+    },
+    {
+        "CustomerID": 509,
+        "BranchID": 550,
+        "SaleDate": "2022-09-08",
+        "TotalAmount": 11376.48
+    },
+    {
+        "CustomerID": 251,
+        "BranchID": 169,
+        "SaleDate": "2023-01-22",
+        "TotalAmount": 7004.69
+    },
+    {
+        "CustomerID": 854,
+        "BranchID": 784,
+        "SaleDate": "2024-11-08",
+        "TotalAmount": 10640.48
+    },
+    {
+        "CustomerID": 302,
+        "BranchID": 868,
+        "SaleDate": "2021-03-28",
+        "TotalAmount": 7507.44
+    },
+    {
+        "CustomerID": 823,
+        "BranchID": 36,
+        "SaleDate": "2020-09-22",
+        "TotalAmount": 11252.12
+    },
+    {
+        "CustomerID": 682,
+        "BranchID": 497,
+        "SaleDate": "2023-07-02",
+        "TotalAmount": 13011.26
+    },
+    {
+        "CustomerID": 82,
+        "BranchID": 22,
+        "SaleDate": "2021-08-26",
+        "TotalAmount": 13865.21
+    },
+    {
+        "CustomerID": 586,
+        "BranchID": 86,
+        "SaleDate": "2020-04-25",
+        "TotalAmount": 16701.44
+    },
+    {
+        "CustomerID": 948,
+        "BranchID": 953,
+        "SaleDate": "2022-05-03",
+        "TotalAmount": 14465.9
+    },
+    {
+        "CustomerID": 976,
+        "BranchID": 940,
+        "SaleDate": "2021-02-18",
+        "TotalAmount": 12397.49
+    },
+    {
+        "CustomerID": 487,
+        "BranchID": 435,
+        "SaleDate": "2022-08-11",
+        "TotalAmount": 717.07
+    },
+    {
+        "CustomerID": 492,
+        "BranchID": 743,
+        "SaleDate": "2020-06-23",
+        "TotalAmount": 2433.06
+    },
+    {
+        "CustomerID": 306,
+        "BranchID": 822,
+        "SaleDate": "2021-04-06",
+        "TotalAmount": 5437.87
+    },
+    {
+        "CustomerID": 310,
+        "BranchID": 536,
+        "SaleDate": "2024-12-06",
+        "TotalAmount": 18843.16
+    },
+    {
+        "CustomerID": 457,
+        "BranchID": 193,
+        "SaleDate": "2025-04-12",
+        "TotalAmount": 4354.82
+    },
+    {
+        "CustomerID": 787,
+        "BranchID": 348,
+        "SaleDate": "2024-07-17",
+        "TotalAmount": 13196.49
+    },
+    {
+        "CustomerID": 767,
+        "BranchID": 406,
+        "SaleDate": "2020-04-03",
+        "TotalAmount": 5982.0
+    },
+    {
+        "CustomerID": 287,
+        "BranchID": 357,
+        "SaleDate": "2022-07-28",
+        "TotalAmount": 4026.27
+    },
+    {
+        "CustomerID": 914,
+        "BranchID": 824,
+        "SaleDate": "2021-09-04",
+        "TotalAmount": 13446.32
+    },
+    {
+        "CustomerID": 652,
+        "BranchID": 203,
+        "SaleDate": "2021-07-18",
+        "TotalAmount": 18932.52
+    },
+    {
+        "CustomerID": 161,
+        "BranchID": 832,
+        "SaleDate": "2024-04-19",
+        "TotalAmount": 1723.57
+    },
+    {
+        "CustomerID": 79,
+        "BranchID": 439,
+        "SaleDate": "2023-11-03",
+        "TotalAmount": 4804.45
+    },
+    {
+        "CustomerID": 126,
+        "BranchID": 594,
+        "SaleDate": "2024-06-16",
+        "TotalAmount": 1588.64
+    },
+    {
+        "CustomerID": 645,
+        "BranchID": 624,
+        "SaleDate": "2022-11-18",
+        "TotalAmount": 12469.93
+    },
+    {
+        "CustomerID": 854,
+        "BranchID": 530,
+        "SaleDate": "2021-03-29",
+        "TotalAmount": 10963.37
+    },
+    {
+        "CustomerID": 950,
+        "BranchID": 981,
+        "SaleDate": "2023-02-26",
+        "TotalAmount": 19737.79
+    },
+    {
+        "CustomerID": 821,
+        "BranchID": 564,
+        "SaleDate": "2020-10-20",
+        "TotalAmount": 9197.58
+    },
+    {
+        "CustomerID": 751,
+        "BranchID": 834,
+        "SaleDate": "2022-07-16",
+        "TotalAmount": 12941.84
+    },
+    {
+        "CustomerID": 927,
+        "BranchID": 520,
+        "SaleDate": "2023-01-06",
+        "TotalAmount": 13483.52
+    },
+    {
+        "CustomerID": 492,
+        "BranchID": 95,
+        "SaleDate": "2020-03-24",
+        "TotalAmount": 19135.17
+    },
+    {
+        "CustomerID": 821,
+        "BranchID": 779,
+        "SaleDate": "2025-08-04",
+        "TotalAmount": 9158.84
+    },
+    {
+        "CustomerID": 436,
+        "BranchID": 223,
+        "SaleDate": "2021-07-22",
+        "TotalAmount": 15185.62
+    },
+    {
+        "CustomerID": 439,
+        "BranchID": 840,
+        "SaleDate": "2025-02-27",
+        "TotalAmount": 8993.58
+    },
+    {
+        "CustomerID": 254,
+        "BranchID": 98,
+        "SaleDate": "2022-04-27",
+        "TotalAmount": 1401.33
+    },
+    {
+        "CustomerID": 745,
+        "BranchID": 839,
+        "SaleDate": "2022-06-27",
+        "TotalAmount": 11979.0
+    },
+    {
+        "CustomerID": 719,
+        "BranchID": 775,
+        "SaleDate": "2023-10-17",
+        "TotalAmount": 4021.07
+    },
+    {
+        "CustomerID": 988,
+        "BranchID": 81,
+        "SaleDate": "2024-03-16",
+        "TotalAmount": 12133.85
+    },
+    {
+        "CustomerID": 509,
+        "BranchID": 400,
+        "SaleDate": "2025-01-19",
+        "TotalAmount": 1403.07
+    },
+    {
+        "CustomerID": 887,
+        "BranchID": 152,
+        "SaleDate": "2020-06-03",
+        "TotalAmount": 19101.43
+    },
+    {
+        "CustomerID": 149,
+        "BranchID": 230,
+        "SaleDate": "2020-02-10",
+        "TotalAmount": 10066.58
+    },
+    {
+        "CustomerID": 762,
+        "BranchID": 9,
+        "SaleDate": "2020-12-26",
+        "TotalAmount": 8874.86
+    },
+    {
+        "CustomerID": 216,
+        "BranchID": 93,
+        "SaleDate": "2022-09-20",
+        "TotalAmount": 11220.93
+    },
+    {
+        "CustomerID": 178,
+        "BranchID": 724,
+        "SaleDate": "2024-05-09",
+        "TotalAmount": 14295.31
+    },
+    {
+        "CustomerID": 731,
+        "BranchID": 741,
+        "SaleDate": "2025-02-28",
+        "TotalAmount": 5510.41
+    },
+    {
+        "CustomerID": 140,
+        "BranchID": 224,
+        "SaleDate": "2022-08-07",
+        "TotalAmount": 7521.92
+    },
+    {
+        "CustomerID": 357,
+        "BranchID": 206,
+        "SaleDate": "2025-06-09",
+        "TotalAmount": 5261.56
+    },
+    {
+        "CustomerID": 986,
+        "BranchID": 605,
+        "SaleDate": "2020-08-06",
+        "TotalAmount": 16738.29
+    },
+    {
+        "CustomerID": 979,
+        "BranchID": 726,
+        "SaleDate": "2020-01-04",
+        "TotalAmount": 811.98
+    },
+    {
+        "CustomerID": 56,
+        "BranchID": 787,
+        "SaleDate": "2020-02-21",
+        "TotalAmount": 13123.78
+    },
+    {
+        "CustomerID": 143,
+        "BranchID": 293,
+        "SaleDate": "2020-07-23",
+        "TotalAmount": 14941.57
+    },
+    {
+        "CustomerID": 622,
+        "BranchID": 516,
+        "SaleDate": "2021-01-21",
+        "TotalAmount": 4914.72
+    },
+    {
+        "CustomerID": 772,
+        "BranchID": 876,
+        "SaleDate": "2020-08-08",
+        "TotalAmount": 9732.48
+    },
+    {
+        "CustomerID": 428,
+        "BranchID": 719,
+        "SaleDate": "2022-07-19",
+        "TotalAmount": 19230.87
+    },
+    {
+        "CustomerID": 216,
+        "BranchID": 128,
+        "SaleDate": "2020-05-28",
+        "TotalAmount": 15793.79
+    },
+    {
+        "CustomerID": 246,
+        "BranchID": 673,
+        "SaleDate": "2020-03-31",
+        "TotalAmount": 2179.72
+    },
+    {
+        "CustomerID": 965,
+        "BranchID": 136,
+        "SaleDate": "2021-09-23",
+        "TotalAmount": 4339.04
+    },
+    {
+        "CustomerID": 73,
+        "BranchID": 65,
+        "SaleDate": "2023-08-15",
+        "TotalAmount": 7278.98
+    },
+    {
+        "CustomerID": 133,
+        "BranchID": 546,
+        "SaleDate": "2023-12-15",
+        "TotalAmount": 9499.44
+    },
+    {
+        "CustomerID": 623,
+        "BranchID": 560,
+        "SaleDate": "2025-03-23",
+        "TotalAmount": 17346.34
+    },
+    {
+        "CustomerID": 761,
+        "BranchID": 860,
+        "SaleDate": "2022-12-29",
+        "TotalAmount": 19545.97
+    },
+    {
+        "CustomerID": 708,
+        "BranchID": 504,
+        "SaleDate": "2024-07-06",
+        "TotalAmount": 16984.28
+    },
+    {
+        "CustomerID": 294,
+        "BranchID": 830,
+        "SaleDate": "2023-12-09",
+        "TotalAmount": 9429.63
+    },
+    {
+        "CustomerID": 819,
+        "BranchID": 841,
+        "SaleDate": "2020-12-02",
+        "TotalAmount": 19067.69
+    },
+    {
+        "CustomerID": 272,
+        "BranchID": 825,
+        "SaleDate": "2022-09-18",
+        "TotalAmount": 13695.66
+    },
+    {
+        "CustomerID": 537,
+        "BranchID": 207,
+        "SaleDate": "2024-09-05",
+        "TotalAmount": 15091.66
+    },
+    {
+        "CustomerID": 784,
+        "BranchID": 107,
+        "SaleDate": "2022-07-17",
+        "TotalAmount": 5620.61
+    },
+    {
+        "CustomerID": 313,
+        "BranchID": 844,
+        "SaleDate": "2020-05-08",
+        "TotalAmount": 891.84
+    },
+    {
+        "CustomerID": 835,
+        "BranchID": 284,
+        "SaleDate": "2025-06-20",
+        "TotalAmount": 3754.63
+    },
+    {
+        "CustomerID": 672,
+        "BranchID": 440,
+        "SaleDate": "2022-08-11",
+        "TotalAmount": 7403.2
+    },
+    {
+        "CustomerID": 481,
+        "BranchID": 447,
+        "SaleDate": "2022-12-23",
+        "TotalAmount": 10563.23
+    },
+    {
+        "CustomerID": 126,
+        "BranchID": 723,
+        "SaleDate": "2021-09-05",
+        "TotalAmount": 19689.42
+    },
+    {
+        "CustomerID": 920,
+        "BranchID": 815,
+        "SaleDate": "2022-02-09",
+        "TotalAmount": 10085.69
+    },
+    {
+        "CustomerID": 194,
+        "BranchID": 361,
+        "SaleDate": "2021-11-28",
+        "TotalAmount": 3411.64
+    },
+    {
+        "CustomerID": 110,
+        "BranchID": 958,
+        "SaleDate": "2025-02-28",
+        "TotalAmount": 8617.67
+    },
+    {
+        "CustomerID": 890,
+        "BranchID": 285,
+        "SaleDate": "2021-04-30",
+        "TotalAmount": 524.01
+    },
+    {
+        "CustomerID": 673,
+        "BranchID": 275,
+        "SaleDate": "2022-01-26",
+        "TotalAmount": 7762.79
+    },
+    {
+        "CustomerID": 63,
+        "BranchID": 747,
+        "SaleDate": "2022-08-29",
+        "TotalAmount": 16821.16
+    },
+    {
+        "CustomerID": 575,
+        "BranchID": 320,
+        "SaleDate": "2022-10-10",
+        "TotalAmount": 10577.92
+    },
+    {
+        "CustomerID": 259,
+        "BranchID": 20,
+        "SaleDate": "2022-09-05",
+        "TotalAmount": 9067.64
+    },
+    {
+        "CustomerID": 882,
+        "BranchID": 824,
+        "SaleDate": "2023-10-11",
+        "TotalAmount": 4276.93
+    },
+    {
+        "CustomerID": 205,
+        "BranchID": 2,
+        "SaleDate": "2020-08-20",
+        "TotalAmount": 4057.56
+    },
+    {
+        "CustomerID": 979,
+        "BranchID": 161,
+        "SaleDate": "2025-05-19",
+        "TotalAmount": 8149.85
+    },
+    {
+        "CustomerID": 753,
+        "BranchID": 347,
+        "SaleDate": "2023-02-10",
+        "TotalAmount": 4472.63
+    },
+    {
+        "CustomerID": 409,
+        "BranchID": 231,
+        "SaleDate": "2021-04-09",
+        "TotalAmount": 7076.43
+    },
+    {
+        "CustomerID": 985,
+        "BranchID": 189,
+        "SaleDate": "2023-10-31",
+        "TotalAmount": 14213.66
+    },
+    {
+        "CustomerID": 357,
+        "BranchID": 507,
+        "SaleDate": "2023-03-06",
+        "TotalAmount": 2286.5
+    },
+    {
+        "CustomerID": 345,
+        "BranchID": 259,
+        "SaleDate": "2024-09-21",
+        "TotalAmount": 10252.52
+    },
+    {
+        "CustomerID": 805,
+        "BranchID": 331,
+        "SaleDate": "2023-07-25",
+        "TotalAmount": 4633.91
+    },
+    {
+        "CustomerID": 776,
+        "BranchID": 912,
+        "SaleDate": "2025-02-27",
+        "TotalAmount": 7382.88
+    },
+    {
+        "CustomerID": 735,
+        "BranchID": 600,
+        "SaleDate": "2023-04-05",
+        "TotalAmount": 2199.95
+    },
+    {
+        "CustomerID": 650,
+        "BranchID": 765,
+        "SaleDate": "2024-06-22",
+        "TotalAmount": 17880.72
+    },
+    {
+        "CustomerID": 284,
+        "BranchID": 632,
+        "SaleDate": "2024-11-29",
+        "TotalAmount": 6912.5
+    },
+    {
+        "CustomerID": 960,
+        "BranchID": 892,
+        "SaleDate": "2020-10-06",
+        "TotalAmount": 2706.87
+    },
+    {
+        "CustomerID": 788,
+        "BranchID": 340,
+        "SaleDate": "2023-09-13",
+        "TotalAmount": 17505.73
+    },
+    {
+        "CustomerID": 918,
+        "BranchID": 82,
+        "SaleDate": "2024-05-05",
+        "TotalAmount": 10339.92
+    },
+    {
+        "CustomerID": 849,
+        "BranchID": 573,
+        "SaleDate": "2022-02-06",
+        "TotalAmount": 17496.73
+    },
+    {
+        "CustomerID": 4,
+        "BranchID": 625,
+        "SaleDate": "2023-02-23",
+        "TotalAmount": 15184.47
+    },
+    {
+        "CustomerID": 166,
+        "BranchID": 729,
+        "SaleDate": "2020-04-01",
+        "TotalAmount": 15230.43
+    },
+    {
+        "CustomerID": 985,
+        "BranchID": 482,
+        "SaleDate": "2023-02-13",
+        "TotalAmount": 9853.17
+    },
+    {
+        "CustomerID": 858,
+        "BranchID": 736,
+        "SaleDate": "2023-05-04",
+        "TotalAmount": 18286.7
+    },
+    {
+        "CustomerID": 166,
+        "BranchID": 816,
+        "SaleDate": "2023-11-22",
+        "TotalAmount": 5374.1
+    },
+    {
+        "CustomerID": 462,
+        "BranchID": 598,
+        "SaleDate": "2021-08-13",
+        "TotalAmount": 14691.82
+    },
+    {
+        "CustomerID": 270,
+        "BranchID": 309,
+        "SaleDate": "2024-05-27",
+        "TotalAmount": 5590.65
+    },
+    {
+        "CustomerID": 600,
+        "BranchID": 521,
+        "SaleDate": "2024-07-28",
+        "TotalAmount": 3675.66
+    },
+    {
+        "CustomerID": 471,
+        "BranchID": 94,
+        "SaleDate": "2020-03-09",
+        "TotalAmount": 490.32
+    },
+    {
+        "CustomerID": 141,
+        "BranchID": 556,
+        "SaleDate": "2020-12-11",
+        "TotalAmount": 467.88
+    },
+    {
+        "CustomerID": 871,
+        "BranchID": 12,
+        "SaleDate": "2021-03-26",
+        "TotalAmount": 11369.81
+    },
+    {
+        "CustomerID": 205,
+        "BranchID": 623,
+        "SaleDate": "2024-12-29",
+        "TotalAmount": 7621.54
+    },
+    {
+        "CustomerID": 544,
+        "BranchID": 420,
+        "SaleDate": "2021-06-24",
+        "TotalAmount": 7204.98
+    },
+    {
+        "CustomerID": 263,
+        "BranchID": 659,
+        "SaleDate": "2025-05-25",
+        "TotalAmount": 920.45
+    },
+    {
+        "CustomerID": 781,
+        "BranchID": 453,
+        "SaleDate": "2023-02-10",
+        "TotalAmount": 9483.65
+    },
+    {
+        "CustomerID": 124,
+        "BranchID": 424,
+        "SaleDate": "2022-02-26",
+        "TotalAmount": 14625.92
+    },
+    {
+        "CustomerID": 124,
+        "BranchID": 993,
+        "SaleDate": "2024-05-12",
+        "TotalAmount": 12014.66
+    },
+    {
+        "CustomerID": 514,
+        "BranchID": 310,
+        "SaleDate": "2025-08-08",
+        "TotalAmount": 2077.19
+    },
+    {
+        "CustomerID": 130,
+        "BranchID": 89,
+        "SaleDate": "2020-11-03",
+        "TotalAmount": 14814.53
+    },
+    {
+        "CustomerID": 218,
+        "BranchID": 212,
+        "SaleDate": "2021-05-15",
+        "TotalAmount": 7570.71
+    },
+    {
+        "CustomerID": 27,
+        "BranchID": 279,
+        "SaleDate": "2023-11-20",
+        "TotalAmount": 18310.89
+    },
+    {
+        "CustomerID": 552,
+        "BranchID": 174,
+        "SaleDate": "2024-11-18",
+        "TotalAmount": 14647.99
+    },
+    {
+        "CustomerID": 613,
+        "BranchID": 162,
+        "SaleDate": "2025-03-19",
+        "TotalAmount": 16184.38
+    },
+    {
+        "CustomerID": 687,
+        "BranchID": 596,
+        "SaleDate": "2021-04-08",
+        "TotalAmount": 3757.77
+    },
+    {
+        "CustomerID": 835,
+        "BranchID": 316,
+        "SaleDate": "2020-07-24",
+        "TotalAmount": 6615.89
+    },
+    {
+        "CustomerID": 134,
+        "BranchID": 893,
+        "SaleDate": "2020-08-08",
+        "TotalAmount": 12618.68
+    },
+    {
+        "CustomerID": 244,
+        "BranchID": 579,
+        "SaleDate": "2024-08-04",
+        "TotalAmount": 15827.87
+    },
+    {
+        "CustomerID": 879,
+        "BranchID": 326,
+        "SaleDate": "2023-02-01",
+        "TotalAmount": 5965.26
+    },
+    {
+        "CustomerID": 703,
+        "BranchID": 158,
+        "SaleDate": "2025-04-07",
+        "TotalAmount": 7869.79
+    },
+    {
+        "CustomerID": 890,
+        "BranchID": 973,
+        "SaleDate": "2022-08-24",
+        "TotalAmount": 18739.25
+    },
+    {
+        "CustomerID": 243,
+        "BranchID": 157,
+        "SaleDate": "2021-04-16",
+        "TotalAmount": 4566.34
+    },
+    {
+        "CustomerID": 884,
+        "BranchID": 433,
+        "SaleDate": "2021-06-21",
+        "TotalAmount": 17082.1
+    },
+    {
+        "CustomerID": 292,
+        "BranchID": 712,
+        "SaleDate": "2020-10-19",
+        "TotalAmount": 11882.23
+    },
+    {
+        "CustomerID": 165,
+        "BranchID": 1000,
+        "SaleDate": "2021-07-25",
+        "TotalAmount": 17191.47
+    },
+    {
+        "CustomerID": 14,
+        "BranchID": 694,
+        "SaleDate": "2021-02-24",
+        "TotalAmount": 3718.31
+    },
+    {
+        "CustomerID": 437,
+        "BranchID": 984,
+        "SaleDate": "2023-03-15",
+        "TotalAmount": 15174.46
+    },
+    {
+        "CustomerID": 463,
+        "BranchID": 798,
+        "SaleDate": "2022-06-30",
+        "TotalAmount": 410.17
+    },
+    {
+        "CustomerID": 425,
+        "BranchID": 525,
+        "SaleDate": "2024-09-12",
+        "TotalAmount": 8874.13
+    },
+    {
+        "CustomerID": 415,
+        "BranchID": 83,
+        "SaleDate": "2021-02-20",
+        "TotalAmount": 776.13
+    },
+    {
+        "CustomerID": 976,
+        "BranchID": 159,
+        "SaleDate": "2020-03-09",
+        "TotalAmount": 14652.3
+    },
+    {
+        "CustomerID": 962,
+        "BranchID": 58,
+        "SaleDate": "2022-09-04",
+        "TotalAmount": 15473.01
+    },
+    {
+        "CustomerID": 70,
+        "BranchID": 745,
+        "SaleDate": "2024-08-26",
+        "TotalAmount": 8988.57
+    },
+    {
+        "CustomerID": 799,
+        "BranchID": 457,
+        "SaleDate": "2020-01-27",
+        "TotalAmount": 3473.32
+    },
+    {
+        "CustomerID": 934,
+        "BranchID": 269,
+        "SaleDate": "2022-11-29",
+        "TotalAmount": 6534.29
+    },
+    {
+        "CustomerID": 186,
+        "BranchID": 208,
+        "SaleDate": "2021-10-21",
+        "TotalAmount": 5469.34
+    },
+    {
+        "CustomerID": 846,
+        "BranchID": 233,
+        "SaleDate": "2024-09-26",
+        "TotalAmount": 3288.0
+    },
+    {
+        "CustomerID": 875,
+        "BranchID": 359,
+        "SaleDate": "2022-07-14",
+        "TotalAmount": 10449.71
+    },
+    {
+        "CustomerID": 24,
+        "BranchID": 847,
+        "SaleDate": "2024-11-03",
+        "TotalAmount": 12872.56
+    },
+    {
+        "CustomerID": 18,
+        "BranchID": 92,
+        "SaleDate": "2022-08-06",
+        "TotalAmount": 10180.44
+    },
+    {
+        "CustomerID": 134,
+        "BranchID": 271,
+        "SaleDate": "2020-04-24",
+        "TotalAmount": 17102.55
+    },
+    {
+        "CustomerID": 989,
+        "BranchID": 163,
+        "SaleDate": "2024-11-14",
+        "TotalAmount": 17090.32
+    },
+    {
+        "CustomerID": 304,
+        "BranchID": 780,
+        "SaleDate": "2020-07-02",
+        "TotalAmount": 4984.86
+    },
+    {
+        "CustomerID": 685,
+        "BranchID": 209,
+        "SaleDate": "2021-04-10",
+        "TotalAmount": 1190.84
+    },
+    {
+        "CustomerID": 47,
+        "BranchID": 525,
+        "SaleDate": "2023-06-17",
+        "TotalAmount": 7592.47
+    },
+    {
+        "CustomerID": 816,
+        "BranchID": 424,
+        "SaleDate": "2023-04-30",
+        "TotalAmount": 12833.26
+    },
+    {
+        "CustomerID": 480,
+        "BranchID": 183,
+        "SaleDate": "2024-03-25",
+        "TotalAmount": 6027.1
+    },
+    {
+        "CustomerID": 899,
+        "BranchID": 891,
+        "SaleDate": "2023-11-28",
+        "TotalAmount": 1406.16
+    },
+    {
+        "CustomerID": 937,
+        "BranchID": 783,
+        "SaleDate": "2021-03-28",
+        "TotalAmount": 17320.64
+    },
+    {
+        "CustomerID": 132,
+        "BranchID": 14,
+        "SaleDate": "2023-12-16",
+        "TotalAmount": 4265.54
+    },
+    {
+        "CustomerID": 230,
+        "BranchID": 632,
+        "SaleDate": "2021-06-22",
+        "TotalAmount": 9667.07
+    },
+    {
+        "CustomerID": 142,
+        "BranchID": 882,
+        "SaleDate": "2021-05-18",
+        "TotalAmount": 2341.15
+    },
+    {
+        "CustomerID": 66,
+        "BranchID": 613,
+        "SaleDate": "2023-06-12",
+        "TotalAmount": 3805.25
+    },
+    {
+        "CustomerID": 316,
+        "BranchID": 366,
+        "SaleDate": "2021-09-01",
+        "TotalAmount": 14987.91
+    },
+    {
+        "CustomerID": 952,
+        "BranchID": 123,
+        "SaleDate": "2022-07-20",
+        "TotalAmount": 12814.77
+    },
+    {
+        "CustomerID": 903,
+        "BranchID": 420,
+        "SaleDate": "2020-12-04",
+        "TotalAmount": 14325.88
+    },
+    {
+        "CustomerID": 815,
+        "BranchID": 869,
+        "SaleDate": "2025-04-29",
+        "TotalAmount": 9175.28
+    },
+    {
+        "CustomerID": 32,
+        "BranchID": 570,
+        "SaleDate": "2021-01-17",
+        "TotalAmount": 13344.57
+    },
+    {
+        "CustomerID": 783,
+        "BranchID": 707,
+        "SaleDate": "2023-02-25",
+        "TotalAmount": 19575.62
+    },
+    {
+        "CustomerID": 204,
+        "BranchID": 356,
+        "SaleDate": "2021-12-09",
+        "TotalAmount": 5719.09
+    },
+    {
+        "CustomerID": 953,
+        "BranchID": 743,
+        "SaleDate": "2023-11-03",
+        "TotalAmount": 9183.4
+    },
+    {
+        "CustomerID": 303,
+        "BranchID": 939,
+        "SaleDate": "2022-01-14",
+        "TotalAmount": 1438.11
+    },
+    {
+        "CustomerID": 349,
+        "BranchID": 690,
+        "SaleDate": "2021-04-28",
+        "TotalAmount": 10123.25
+    },
+    {
+        "CustomerID": 661,
+        "BranchID": 977,
+        "SaleDate": "2023-07-25",
+        "TotalAmount": 3987.51
+    },
+    {
+        "CustomerID": 678,
+        "BranchID": 492,
+        "SaleDate": "2022-08-03",
+        "TotalAmount": 18766.93
+    },
+    {
+        "CustomerID": 316,
+        "BranchID": 551,
+        "SaleDate": "2021-06-18",
+        "TotalAmount": 12084.18
+    },
+    {
+        "CustomerID": 862,
+        "BranchID": 806,
+        "SaleDate": "2021-05-28",
+        "TotalAmount": 4024.97
+    },
+    {
+        "CustomerID": 736,
+        "BranchID": 122,
+        "SaleDate": "2022-02-02",
+        "TotalAmount": 19251.81
+    },
+    {
+        "CustomerID": 828,
+        "BranchID": 628,
+        "SaleDate": "2023-06-17",
+        "TotalAmount": 7003.45
+    },
+    {
+        "CustomerID": 211,
+        "BranchID": 852,
+        "SaleDate": "2023-09-05",
+        "TotalAmount": 18544.92
+    },
+    {
+        "CustomerID": 420,
+        "BranchID": 442,
+        "SaleDate": "2023-06-17",
+        "TotalAmount": 2971.05
+    },
+    {
+        "CustomerID": 602,
+        "BranchID": 494,
+        "SaleDate": "2023-10-13",
+        "TotalAmount": 2064.5
+    },
+    {
+        "CustomerID": 975,
+        "BranchID": 112,
+        "SaleDate": "2021-05-16",
+        "TotalAmount": 14270.98
+    },
+    {
+        "CustomerID": 421,
+        "BranchID": 949,
+        "SaleDate": "2023-03-30",
+        "TotalAmount": 17010.67
+    },
+    {
+        "CustomerID": 273,
+        "BranchID": 780,
+        "SaleDate": "2023-05-19",
+        "TotalAmount": 12986.71
+    },
+    {
+        "CustomerID": 446,
+        "BranchID": 71,
+        "SaleDate": "2023-01-27",
+        "TotalAmount": 12379.33
+    },
+    {
+        "CustomerID": 357,
+        "BranchID": 600,
+        "SaleDate": "2024-08-03",
+        "TotalAmount": 5373.56
+    },
+    {
+        "CustomerID": 278,
+        "BranchID": 174,
+        "SaleDate": "2025-07-10",
+        "TotalAmount": 8718.58
+    },
+    {
+        "CustomerID": 745,
+        "BranchID": 322,
+        "SaleDate": "2023-01-03",
+        "TotalAmount": 8754.71
+    },
+    {
+        "CustomerID": 757,
+        "BranchID": 40,
+        "SaleDate": "2022-07-12",
+        "TotalAmount": 11703.75
+    },
+    {
+        "CustomerID": 220,
+        "BranchID": 158,
+        "SaleDate": "2024-11-03",
+        "TotalAmount": 7518.05
+    },
+    {
+        "CustomerID": 141,
+        "BranchID": 695,
+        "SaleDate": "2023-04-17",
+        "TotalAmount": 6867.16
+    },
+    {
+        "CustomerID": 196,
+        "BranchID": 170,
+        "SaleDate": "2020-01-05",
+        "TotalAmount": 250.98
+    },
+    {
+        "CustomerID": 267,
+        "BranchID": 427,
+        "SaleDate": "2024-09-13",
+        "TotalAmount": 8615.77
+    },
+    {
+        "CustomerID": 804,
+        "BranchID": 444,
+        "SaleDate": "2020-06-29",
+        "TotalAmount": 16506.31
+    },
+    {
+        "CustomerID": 963,
+        "BranchID": 360,
+        "SaleDate": "2022-06-24",
+        "TotalAmount": 13042.21
+    },
+    {
+        "CustomerID": 508,
+        "BranchID": 699,
+        "SaleDate": "2022-08-19",
+        "TotalAmount": 16795.99
+    },
+    {
+        "CustomerID": 384,
+        "BranchID": 69,
+        "SaleDate": "2025-03-05",
+        "TotalAmount": 2739.01
+    },
+    {
+        "CustomerID": 976,
+        "BranchID": 859,
+        "SaleDate": "2023-09-18",
+        "TotalAmount": 15319.13
+    },
+    {
+        "CustomerID": 629,
+        "BranchID": 972,
+        "SaleDate": "2023-03-08",
+        "TotalAmount": 1914.83
+    },
+    {
+        "CustomerID": 571,
+        "BranchID": 390,
+        "SaleDate": "2023-05-17",
+        "TotalAmount": 829.44
+    },
+    {
+        "CustomerID": 926,
+        "BranchID": 856,
+        "SaleDate": "2025-05-17",
+        "TotalAmount": 1242.82
+    },
+    {
+        "CustomerID": 119,
+        "BranchID": 911,
+        "SaleDate": "2022-09-24",
+        "TotalAmount": 6086.97
+    },
+    {
+        "CustomerID": 1,
+        "BranchID": 79,
+        "SaleDate": "2023-03-21",
+        "TotalAmount": 10135.55
+    },
+    {
+        "CustomerID": 137,
+        "BranchID": 350,
+        "SaleDate": "2024-12-29",
+        "TotalAmount": 244.21
+    },
+    {
+        "CustomerID": 765,
+        "BranchID": 13,
+        "SaleDate": "2021-06-22",
+        "TotalAmount": 13075.49
+    },
+    {
+        "CustomerID": 255,
+        "BranchID": 498,
+        "SaleDate": "2022-11-10",
+        "TotalAmount": 8738.94
+    },
+    {
+        "CustomerID": 395,
+        "BranchID": 862,
+        "SaleDate": "2021-01-06",
+        "TotalAmount": 3438.91
+    },
+    {
+        "CustomerID": 892,
+        "BranchID": 113,
+        "SaleDate": "2020-07-06",
+        "TotalAmount": 7726.76
+    },
+    {
+        "CustomerID": 830,
+        "BranchID": 501,
+        "SaleDate": "2021-08-31",
+        "TotalAmount": 16848.8
+    },
+    {
+        "CustomerID": 721,
+        "BranchID": 772,
+        "SaleDate": "2024-04-26",
+        "TotalAmount": 12996.89
+    },
+    {
+        "CustomerID": 560,
+        "BranchID": 391,
+        "SaleDate": "2023-12-01",
+        "TotalAmount": 1958.56
+    },
+    {
+        "CustomerID": 678,
+        "BranchID": 711,
+        "SaleDate": "2022-12-01",
+        "TotalAmount": 11642.38
+    },
+    {
+        "CustomerID": 721,
+        "BranchID": 273,
+        "SaleDate": "2023-01-30",
+        "TotalAmount": 4948.69
+    },
+    {
+        "CustomerID": 898,
+        "BranchID": 706,
+        "SaleDate": "2023-04-07",
+        "TotalAmount": 13477.0
+    },
+    {
+        "CustomerID": 630,
+        "BranchID": 276,
+        "SaleDate": "2022-06-11",
+        "TotalAmount": 5114.9
+    },
+    {
+        "CustomerID": 656,
+        "BranchID": 157,
+        "SaleDate": "2025-04-04",
+        "TotalAmount": 4816.27
+    },
+    {
+        "CustomerID": 738,
+        "BranchID": 112,
+        "SaleDate": "2025-05-02",
+        "TotalAmount": 18094.96
+    },
+    {
+        "CustomerID": 336,
+        "BranchID": 52,
+        "SaleDate": "2021-10-10",
+        "TotalAmount": 8914.4
+    },
+    {
+        "CustomerID": 35,
+        "BranchID": 430,
+        "SaleDate": "2023-09-02",
+        "TotalAmount": 11627.16
+    },
+    {
+        "CustomerID": 281,
+        "BranchID": 585,
+        "SaleDate": "2022-08-24",
+        "TotalAmount": 1432.86
+    },
+    {
+        "CustomerID": 649,
+        "BranchID": 985,
+        "SaleDate": "2022-03-03",
+        "TotalAmount": 1249.0
+    },
+    {
+        "CustomerID": 36,
+        "BranchID": 714,
+        "SaleDate": "2024-05-12",
+        "TotalAmount": 19910.91
+    },
+    {
+        "CustomerID": 706,
+        "BranchID": 108,
+        "SaleDate": "2023-10-16",
+        "TotalAmount": 12655.46
+    },
+    {
+        "CustomerID": 181,
+        "BranchID": 894,
+        "SaleDate": "2022-11-30",
+        "TotalAmount": 3013.91
+    },
+    {
+        "CustomerID": 68,
+        "BranchID": 282,
+        "SaleDate": "2020-11-19",
+        "TotalAmount": 5216.85
+    },
+    {
+        "CustomerID": 500,
+        "BranchID": 599,
+        "SaleDate": "2024-03-07",
+        "TotalAmount": 16879.13
+    },
+    {
+        "CustomerID": 627,
+        "BranchID": 858,
+        "SaleDate": "2024-06-21",
+        "TotalAmount": 159.95
+    },
+    {
+        "CustomerID": 475,
+        "BranchID": 770,
+        "SaleDate": "2023-03-31",
+        "TotalAmount": 5264.07
+    },
+    {
+        "CustomerID": 514,
+        "BranchID": 539,
+        "SaleDate": "2021-02-05",
+        "TotalAmount": 17735.15
+    },
+    {
+        "CustomerID": 376,
+        "BranchID": 903,
+        "SaleDate": "2020-09-15",
+        "TotalAmount": 225.29
+    },
+    {
+        "CustomerID": 320,
+        "BranchID": 648,
+        "SaleDate": "2021-11-09",
+        "TotalAmount": 7575.84
+    },
+    {
+        "CustomerID": 523,
+        "BranchID": 929,
+        "SaleDate": "2022-08-30",
+        "TotalAmount": 9037.85
+    },
+    {
+        "CustomerID": 802,
+        "BranchID": 933,
+        "SaleDate": "2020-05-27",
+        "TotalAmount": 8220.5
+    },
+    {
+        "CustomerID": 328,
+        "BranchID": 551,
+        "SaleDate": "2022-05-24",
+        "TotalAmount": 8497.44
+    },
+    {
+        "CustomerID": 395,
+        "BranchID": 704,
+        "SaleDate": "2024-08-03",
+        "TotalAmount": 4976.51
+    },
+    {
+        "CustomerID": 783,
+        "BranchID": 173,
+        "SaleDate": "2025-05-20",
+        "TotalAmount": 6972.92
+    },
+    {
+        "CustomerID": 254,
+        "BranchID": 539,
+        "SaleDate": "2021-06-29",
+        "TotalAmount": 4349.4
+    },
+    {
+        "CustomerID": 475,
+        "BranchID": 845,
+        "SaleDate": "2023-04-19",
+        "TotalAmount": 16961.53
+    },
+    {
+        "CustomerID": 467,
+        "BranchID": 62,
+        "SaleDate": "2021-05-07",
+        "TotalAmount": 11633.72
+    },
+    {
+        "CustomerID": 252,
+        "BranchID": 172,
+        "SaleDate": "2023-09-05",
+        "TotalAmount": 18075.91
+    },
+    {
+        "CustomerID": 7,
+        "BranchID": 115,
+        "SaleDate": "2020-05-06",
+        "TotalAmount": 8866.59
+    },
+    {
+        "CustomerID": 688,
+        "BranchID": 438,
+        "SaleDate": "2022-03-01",
+        "TotalAmount": 8671.61
+    },
+    {
+        "CustomerID": 797,
+        "BranchID": 867,
+        "SaleDate": "2022-07-30",
+        "TotalAmount": 625.56
+    },
+    {
+        "CustomerID": 989,
+        "BranchID": 439,
+        "SaleDate": "2025-06-18",
+        "TotalAmount": 2371.94
+    },
+    {
+        "CustomerID": 423,
+        "BranchID": 472,
+        "SaleDate": "2021-02-17",
+        "TotalAmount": 17991.92
+    },
+    {
+        "CustomerID": 305,
+        "BranchID": 513,
+        "SaleDate": "2024-07-04",
+        "TotalAmount": 4073.56
+    },
+    {
+        "CustomerID": 807,
+        "BranchID": 147,
+        "SaleDate": "2021-01-09",
+        "TotalAmount": 3877.43
+    },
+    {
+        "CustomerID": 426,
+        "BranchID": 428,
+        "SaleDate": "2025-01-29",
+        "TotalAmount": 11361.99
+    },
+    {
+        "CustomerID": 420,
+        "BranchID": 374,
+        "SaleDate": "2025-04-01",
+        "TotalAmount": 4070.03
+    },
+    {
+        "CustomerID": 46,
+        "BranchID": 298,
+        "SaleDate": "2023-04-29",
+        "TotalAmount": 16813.13
+    },
+    {
+        "CustomerID": 272,
+        "BranchID": 794,
+        "SaleDate": "2021-04-20",
+        "TotalAmount": 2658.63
+    },
+    {
+        "CustomerID": 319,
+        "BranchID": 832,
+        "SaleDate": "2022-06-18",
+        "TotalAmount": 77.62
+    },
+    {
+        "CustomerID": 398,
+        "BranchID": 103,
+        "SaleDate": "2020-09-06",
+        "TotalAmount": 3810.77
+    },
+    {
+        "CustomerID": 290,
+        "BranchID": 722,
+        "SaleDate": "2021-04-28",
+        "TotalAmount": 3303.06
+    },
+    {
+        "CustomerID": 307,
+        "BranchID": 322,
+        "SaleDate": "2025-08-06",
+        "TotalAmount": 5423.49
+    },
+    {
+        "CustomerID": 425,
+        "BranchID": 910,
+        "SaleDate": "2024-12-09",
+        "TotalAmount": 5388.57
+    },
+    {
+        "CustomerID": 933,
+        "BranchID": 418,
+        "SaleDate": "2024-05-19",
+        "TotalAmount": 10454.94
+    },
+    {
+        "CustomerID": 807,
+        "BranchID": 719,
+        "SaleDate": "2022-01-19",
+        "TotalAmount": 12565.87
+    },
+    {
+        "CustomerID": 61,
+        "BranchID": 992,
+        "SaleDate": "2020-01-18",
+        "TotalAmount": 12412.16
+    },
+    {
+        "CustomerID": 547,
+        "BranchID": 748,
+        "SaleDate": "2023-11-27",
+        "TotalAmount": 7684.57
+    },
+    {
+        "CustomerID": 954,
+        "BranchID": 847,
+        "SaleDate": "2020-09-03",
+        "TotalAmount": 8783.88
+    },
+    {
+        "CustomerID": 98,
+        "BranchID": 806,
+        "SaleDate": "2024-10-19",
+        "TotalAmount": 15419.28
+    },
+    {
+        "CustomerID": 906,
+        "BranchID": 58,
+        "SaleDate": "2025-01-30",
+        "TotalAmount": 14491.39
+    },
+    {
+        "CustomerID": 4,
+        "BranchID": 80,
+        "SaleDate": "2023-12-28",
+        "TotalAmount": 12558.48
+    },
+    {
+        "CustomerID": 638,
+        "BranchID": 487,
+        "SaleDate": "2022-08-09",
+        "TotalAmount": 11414.94
+    },
+    {
+        "CustomerID": 627,
+        "BranchID": 772,
+        "SaleDate": "2024-05-30",
+        "TotalAmount": 8595.64
+    },
+    {
+        "CustomerID": 210,
+        "BranchID": 548,
+        "SaleDate": "2025-07-20",
+        "TotalAmount": 18115.72
+    },
+    {
+        "CustomerID": 376,
+        "BranchID": 832,
+        "SaleDate": "2024-08-29",
+        "TotalAmount": 19904.17
+    },
+    {
+        "CustomerID": 898,
+        "BranchID": 450,
+        "SaleDate": "2022-05-19",
+        "TotalAmount": 13065.13
+    },
+    {
+        "CustomerID": 867,
+        "BranchID": 343,
+        "SaleDate": "2024-02-05",
+        "TotalAmount": 3147.88
+    },
+    {
+        "CustomerID": 62,
+        "BranchID": 820,
+        "SaleDate": "2021-09-15",
+        "TotalAmount": 652.0
+    },
+    {
+        "CustomerID": 473,
+        "BranchID": 791,
+        "SaleDate": "2022-08-08",
+        "TotalAmount": 17938.73
+    },
+    {
+        "CustomerID": 736,
+        "BranchID": 928,
+        "SaleDate": "2020-10-06",
+        "TotalAmount": 16278.45
+    },
+    {
+        "CustomerID": 695,
+        "BranchID": 414,
+        "SaleDate": "2022-11-17",
+        "TotalAmount": 17810.22
+    },
+    {
+        "CustomerID": 679,
+        "BranchID": 778,
+        "SaleDate": "2022-12-21",
+        "TotalAmount": 16072.57
+    },
+    {
+        "CustomerID": 42,
+        "BranchID": 393,
+        "SaleDate": "2020-07-22",
+        "TotalAmount": 4555.82
+    },
+    {
+        "CustomerID": 720,
+        "BranchID": 133,
+        "SaleDate": "2023-03-08",
+        "TotalAmount": 9628.99
+    },
+    {
+        "CustomerID": 543,
+        "BranchID": 270,
+        "SaleDate": "2023-11-26",
+        "TotalAmount": 12759.82
+    },
+    {
+        "CustomerID": 333,
+        "BranchID": 943,
+        "SaleDate": "2024-09-02",
+        "TotalAmount": 7635.7
+    },
+    {
+        "CustomerID": 875,
+        "BranchID": 750,
+        "SaleDate": "2020-08-22",
+        "TotalAmount": 11172.4
+    },
+    {
+        "CustomerID": 589,
+        "BranchID": 989,
+        "SaleDate": "2025-01-26",
+        "TotalAmount": 18420.94
+    },
+    {
+        "CustomerID": 253,
+        "BranchID": 676,
+        "SaleDate": "2025-03-26",
+        "TotalAmount": 18329.64
+    },
+    {
+        "CustomerID": 517,
+        "BranchID": 98,
+        "SaleDate": "2021-02-22",
+        "TotalAmount": 6559.07
+    },
+    {
+        "CustomerID": 133,
+        "BranchID": 466,
+        "SaleDate": "2020-11-11",
+        "TotalAmount": 19883.51
+    },
+    {
+        "CustomerID": 869,
+        "BranchID": 472,
+        "SaleDate": "2023-05-04",
+        "TotalAmount": 19858.39
+    },
+    {
+        "CustomerID": 650,
+        "BranchID": 525,
+        "SaleDate": "2025-03-12",
+        "TotalAmount": 5296.96
+    },
+    {
+        "CustomerID": 19,
+        "BranchID": 323,
+        "SaleDate": "2020-09-04",
+        "TotalAmount": 792.14
+    },
+    {
+        "CustomerID": 329,
+        "BranchID": 68,
+        "SaleDate": "2025-04-22",
+        "TotalAmount": 8387.58
+    },
+    {
+        "CustomerID": 840,
+        "BranchID": 403,
+        "SaleDate": "2020-01-07",
+        "TotalAmount": 11785.32
+    },
+    {
+        "CustomerID": 294,
+        "BranchID": 345,
+        "SaleDate": "2020-06-13",
+        "TotalAmount": 5923.33
+    },
+    {
+        "CustomerID": 17,
+        "BranchID": 859,
+        "SaleDate": "2024-10-27",
+        "TotalAmount": 8474.94
+    },
+    {
+        "CustomerID": 224,
+        "BranchID": 414,
+        "SaleDate": "2025-05-08",
+        "TotalAmount": 1235.99
+    },
+    {
+        "CustomerID": 275,
+        "BranchID": 272,
+        "SaleDate": "2024-11-25",
+        "TotalAmount": 7354.71
+    },
+    {
+        "CustomerID": 391,
+        "BranchID": 152,
+        "SaleDate": "2025-04-03",
+        "TotalAmount": 7144.01
+    },
+    {
+        "CustomerID": 19,
+        "BranchID": 891,
+        "SaleDate": "2025-03-19",
+        "TotalAmount": 12319.49
+    },
+    {
+        "CustomerID": 428,
+        "BranchID": 550,
+        "SaleDate": "2021-02-07",
+        "TotalAmount": 1338.12
+    },
+    {
+        "CustomerID": 319,
+        "BranchID": 493,
+        "SaleDate": "2021-05-23",
+        "TotalAmount": 5572.41
+    },
+    {
+        "CustomerID": 856,
+        "BranchID": 437,
+        "SaleDate": "2022-01-20",
+        "TotalAmount": 7227.87
+    },
+    {
+        "CustomerID": 14,
+        "BranchID": 65,
+        "SaleDate": "2021-09-11",
+        "TotalAmount": 4887.94
+    },
+    {
+        "CustomerID": 26,
+        "BranchID": 247,
+        "SaleDate": "2024-08-06",
+        "TotalAmount": 15183.01
+    },
+    {
+        "CustomerID": 357,
+        "BranchID": 663,
+        "SaleDate": "2022-01-13",
+        "TotalAmount": 9785.78
+    },
+    {
+        "CustomerID": 234,
+        "BranchID": 107,
+        "SaleDate": "2022-12-11",
+        "TotalAmount": 13458.1
+    },
+    {
+        "CustomerID": 976,
+        "BranchID": 712,
+        "SaleDate": "2024-07-05",
+        "TotalAmount": 13694.58
+    },
+    {
+        "CustomerID": 614,
+        "BranchID": 823,
+        "SaleDate": "2024-07-02",
+        "TotalAmount": 4895.18
+    },
+    {
+        "CustomerID": 959,
+        "BranchID": 964,
+        "SaleDate": "2021-07-19",
+        "TotalAmount": 19470.21
+    },
+    {
+        "CustomerID": 692,
+        "BranchID": 616,
+        "SaleDate": "2022-08-21",
+        "TotalAmount": 9346.26
+    },
+    {
+        "CustomerID": 481,
+        "BranchID": 139,
+        "SaleDate": "2023-07-03",
+        "TotalAmount": 14187.48
+    },
+    {
+        "CustomerID": 160,
+        "BranchID": 106,
+        "SaleDate": "2022-07-29",
+        "TotalAmount": 15492.95
+    },
+    {
+        "CustomerID": 936,
+        "BranchID": 627,
+        "SaleDate": "2021-08-23",
+        "TotalAmount": 2612.38
+    },
+    {
+        "CustomerID": 804,
+        "BranchID": 378,
+        "SaleDate": "2020-09-28",
+        "TotalAmount": 4063.73
+    },
+    {
+        "CustomerID": 815,
+        "BranchID": 30,
+        "SaleDate": "2025-01-05",
+        "TotalAmount": 1368.93
+    },
+    {
+        "CustomerID": 32,
+        "BranchID": 146,
+        "SaleDate": "2022-04-19",
+        "TotalAmount": 8717.21
+    },
+    {
+        "CustomerID": 452,
+        "BranchID": 733,
+        "SaleDate": "2021-01-27",
+        "TotalAmount": 6696.43
+    },
+    {
+        "CustomerID": 303,
+        "BranchID": 937,
+        "SaleDate": "2023-07-25",
+        "TotalAmount": 8805.26
+    },
+    {
+        "CustomerID": 943,
+        "BranchID": 560,
+        "SaleDate": "2025-05-29",
+        "TotalAmount": 16300.73
+    },
+    {
+        "CustomerID": 826,
+        "BranchID": 446,
+        "SaleDate": "2023-03-06",
+        "TotalAmount": 16762.55
+    },
+    {
+        "CustomerID": 869,
+        "BranchID": 105,
+        "SaleDate": "2021-03-24",
+        "TotalAmount": 15350.03
+    },
+    {
+        "CustomerID": 683,
+        "BranchID": 867,
+        "SaleDate": "2023-05-07",
+        "TotalAmount": 19728.27
+    },
+    {
+        "CustomerID": 777,
+        "BranchID": 958,
+        "SaleDate": "2020-12-10",
+        "TotalAmount": 3348.77
+    },
+    {
+        "CustomerID": 870,
+        "BranchID": 945,
+        "SaleDate": "2020-02-13",
+        "TotalAmount": 18845.99
+    },
+    {
+        "CustomerID": 80,
+        "BranchID": 581,
+        "SaleDate": "2021-12-07",
+        "TotalAmount": 1833.35
+    },
+    {
+        "CustomerID": 147,
+        "BranchID": 572,
+        "SaleDate": "2020-08-29",
+        "TotalAmount": 12505.89
+    },
+    {
+        "CustomerID": 53,
+        "BranchID": 361,
+        "SaleDate": "2022-11-17",
+        "TotalAmount": 17415.32
+    },
+    {
+        "CustomerID": 59,
+        "BranchID": 890,
+        "SaleDate": "2024-07-02",
+        "TotalAmount": 3108.43
+    },
+    {
+        "CustomerID": 930,
+        "BranchID": 402,
+        "SaleDate": "2021-10-25",
+        "TotalAmount": 2564.32
+    },
+    {
+        "CustomerID": 790,
+        "BranchID": 478,
+        "SaleDate": "2020-02-18",
+        "TotalAmount": 13201.0
+    },
+    {
+        "CustomerID": 895,
+        "BranchID": 426,
+        "SaleDate": "2023-01-29",
+        "TotalAmount": 19912.81
+    },
+    {
+        "CustomerID": 840,
+        "BranchID": 415,
+        "SaleDate": "2023-09-16",
+        "TotalAmount": 8609.49
+    },
+    {
+        "CustomerID": 3,
+        "BranchID": 341,
+        "SaleDate": "2021-06-09",
+        "TotalAmount": 7853.78
+    },
+    {
+        "CustomerID": 165,
+        "BranchID": 668,
+        "SaleDate": "2025-01-02",
+        "TotalAmount": 3803.21
+    },
+    {
+        "CustomerID": 87,
+        "BranchID": 308,
+        "SaleDate": "2021-06-30",
+        "TotalAmount": 721.04
+    },
+    {
+        "CustomerID": 196,
+        "BranchID": 533,
+        "SaleDate": "2025-05-02",
+        "TotalAmount": 11106.17
+    },
+    {
+        "CustomerID": 573,
+        "BranchID": 807,
+        "SaleDate": "2024-03-04",
+        "TotalAmount": 19611.78
+    },
+    {
+        "CustomerID": 379,
+        "BranchID": 967,
+        "SaleDate": "2020-02-29",
+        "TotalAmount": 1418.83
+    },
+    {
+        "CustomerID": 396,
+        "BranchID": 37,
+        "SaleDate": "2021-05-14",
+        "TotalAmount": 6954.33
+    },
+    {
+        "CustomerID": 127,
+        "BranchID": 974,
+        "SaleDate": "2023-02-26",
+        "TotalAmount": 4492.21
+    },
+    {
+        "CustomerID": 243,
+        "BranchID": 639,
+        "SaleDate": "2021-08-10",
+        "TotalAmount": 6491.89
+    },
+    {
+        "CustomerID": 431,
+        "BranchID": 665,
+        "SaleDate": "2023-11-25",
+        "TotalAmount": 5312.63
+    },
+    {
+        "CustomerID": 575,
+        "BranchID": 248,
+        "SaleDate": "2023-09-25",
+        "TotalAmount": 15785.99
+    },
+    {
+        "CustomerID": 640,
+        "BranchID": 380,
+        "SaleDate": "2021-02-09",
+        "TotalAmount": 4785.98
+    },
+    {
+        "CustomerID": 693,
+        "BranchID": 628,
+        "SaleDate": "2021-02-08",
+        "TotalAmount": 12606.8
+    },
+    {
+        "CustomerID": 434,
+        "BranchID": 292,
+        "SaleDate": "2025-04-24",
+        "TotalAmount": 12131.15
+    },
+    {
+        "CustomerID": 475,
+        "BranchID": 242,
+        "SaleDate": "2023-12-20",
+        "TotalAmount": 9630.73
+    },
+    {
+        "CustomerID": 169,
+        "BranchID": 95,
+        "SaleDate": "2022-03-24",
+        "TotalAmount": 11814.47
+    },
+    {
+        "CustomerID": 580,
+        "BranchID": 394,
+        "SaleDate": "2023-02-21",
+        "TotalAmount": 18546.71
+    },
+    {
+        "CustomerID": 425,
+        "BranchID": 193,
+        "SaleDate": "2022-10-24",
+        "TotalAmount": 19363.54
+    },
+    {
+        "CustomerID": 169,
+        "BranchID": 209,
+        "SaleDate": "2024-03-21",
+        "TotalAmount": 12568.22
+    },
+    {
+        "CustomerID": 38,
+        "BranchID": 640,
+        "SaleDate": "2024-04-21",
+        "TotalAmount": 8443.92
+    },
+    {
+        "CustomerID": 107,
+        "BranchID": 929,
+        "SaleDate": "2024-01-15",
+        "TotalAmount": 6233.32
+    },
+    {
+        "CustomerID": 335,
+        "BranchID": 251,
+        "SaleDate": "2023-02-11",
+        "TotalAmount": 12860.79
+    },
+    {
+        "CustomerID": 545,
+        "BranchID": 299,
+        "SaleDate": "2022-05-22",
+        "TotalAmount": 9930.77
+    },
+    {
+        "CustomerID": 745,
+        "BranchID": 354,
+        "SaleDate": "2022-07-23",
+        "TotalAmount": 5452.87
+    },
+    {
+        "CustomerID": 831,
+        "BranchID": 996,
+        "SaleDate": "2021-04-23",
+        "TotalAmount": 2770.08
+    },
+    {
+        "CustomerID": 859,
+        "BranchID": 634,
+        "SaleDate": "2020-12-01",
+        "TotalAmount": 17449.51
+    },
+    {
+        "CustomerID": 286,
+        "BranchID": 777,
+        "SaleDate": "2024-07-21",
+        "TotalAmount": 19983.59
+    },
+    {
+        "CustomerID": 185,
+        "BranchID": 925,
+        "SaleDate": "2024-11-27",
+        "TotalAmount": 5420.58
+    },
+    {
+        "CustomerID": 357,
+        "BranchID": 876,
+        "SaleDate": "2021-01-02",
+        "TotalAmount": 14423.58
+    },
+    {
+        "CustomerID": 535,
+        "BranchID": 380,
+        "SaleDate": "2021-06-18",
+        "TotalAmount": 18524.64
+    },
+    {
+        "CustomerID": 168,
+        "BranchID": 916,
+        "SaleDate": "2022-03-26",
+        "TotalAmount": 10125.46
+    },
+    {
+        "CustomerID": 967,
+        "BranchID": 273,
+        "SaleDate": "2020-02-15",
+        "TotalAmount": 8331.35
+    },
+    {
+        "CustomerID": 526,
+        "BranchID": 232,
+        "SaleDate": "2021-03-18",
+        "TotalAmount": 18662.56
+    },
+    {
+        "CustomerID": 447,
+        "BranchID": 854,
+        "SaleDate": "2020-04-05",
+        "TotalAmount": 8124.36
+    },
+    {
+        "CustomerID": 329,
+        "BranchID": 170,
+        "SaleDate": "2021-08-03",
+        "TotalAmount": 12204.92
+    },
+    {
+        "CustomerID": 260,
+        "BranchID": 405,
+        "SaleDate": "2020-03-28",
+        "TotalAmount": 3626.26
+    },
+    {
+        "CustomerID": 472,
+        "BranchID": 783,
+        "SaleDate": "2022-05-01",
+        "TotalAmount": 14492.03
+    },
+    {
+        "CustomerID": 872,
+        "BranchID": 575,
+        "SaleDate": "2024-10-19",
+        "TotalAmount": 7280.34
+    },
+    {
+        "CustomerID": 437,
+        "BranchID": 10,
+        "SaleDate": "2021-03-30",
+        "TotalAmount": 3326.02
+    },
+    {
+        "CustomerID": 610,
+        "BranchID": 630,
+        "SaleDate": "2025-04-22",
+        "TotalAmount": 14006.04
+    },
+    {
+        "CustomerID": 913,
+        "BranchID": 900,
+        "SaleDate": "2025-06-15",
+        "TotalAmount": 13326.71
+    },
+    {
+        "CustomerID": 36,
+        "BranchID": 295,
+        "SaleDate": "2020-01-03",
+        "TotalAmount": 6488.5
+    },
+    {
+        "CustomerID": 88,
+        "BranchID": 899,
+        "SaleDate": "2020-05-04",
+        "TotalAmount": 4660.72
+    },
+    {
+        "CustomerID": 574,
+        "BranchID": 455,
+        "SaleDate": "2022-12-16",
+        "TotalAmount": 5877.34
+    },
+    {
+        "CustomerID": 551,
+        "BranchID": 290,
+        "SaleDate": "2021-02-15",
+        "TotalAmount": 7611.15
+    },
+    {
+        "CustomerID": 832,
+        "BranchID": 936,
+        "SaleDate": "2022-07-17",
+        "TotalAmount": 19171.71
+    },
+    {
+        "CustomerID": 615,
+        "BranchID": 812,
+        "SaleDate": "2023-04-25",
+        "TotalAmount": 18065.74
+    },
+    {
+        "CustomerID": 193,
+        "BranchID": 24,
+        "SaleDate": "2022-11-14",
+        "TotalAmount": 14712.72
+    },
+    {
+        "CustomerID": 393,
+        "BranchID": 660,
+        "SaleDate": "2022-02-15",
+        "TotalAmount": 9624.76
+    },
+    {
+        "CustomerID": 167,
+        "BranchID": 57,
+        "SaleDate": "2025-07-24",
+        "TotalAmount": 548.52
+    },
+    {
+        "CustomerID": 857,
+        "BranchID": 212,
+        "SaleDate": "2023-06-17",
+        "TotalAmount": 14240.67
+    },
+    {
+        "CustomerID": 25,
+        "BranchID": 463,
+        "SaleDate": "2023-11-14",
+        "TotalAmount": 2298.28
+    },
+    {
+        "CustomerID": 345,
+        "BranchID": 61,
+        "SaleDate": "2023-08-24",
+        "TotalAmount": 19121.8
+    },
+    {
+        "CustomerID": 633,
+        "BranchID": 572,
+        "SaleDate": "2021-04-23",
+        "TotalAmount": 6977.62
+    },
+    {
+        "CustomerID": 727,
+        "BranchID": 873,
+        "SaleDate": "2020-11-11",
+        "TotalAmount": 6177.15
+    },
+    {
+        "CustomerID": 789,
+        "BranchID": 681,
+        "SaleDate": "2023-03-03",
+        "TotalAmount": 3282.2
+    },
+    {
+        "CustomerID": 923,
+        "BranchID": 725,
+        "SaleDate": "2023-01-07",
+        "TotalAmount": 5453.91
+    },
+    {
+        "CustomerID": 218,
+        "BranchID": 564,
+        "SaleDate": "2024-01-11",
+        "TotalAmount": 2812.7
+    },
+    {
+        "CustomerID": 519,
+        "BranchID": 683,
+        "SaleDate": "2021-06-02",
+        "TotalAmount": 1941.19
+    },
+    {
+        "CustomerID": 932,
+        "BranchID": 542,
+        "SaleDate": "2020-11-04",
+        "TotalAmount": 5785.92
+    },
+    {
+        "CustomerID": 958,
+        "BranchID": 242,
+        "SaleDate": "2020-04-19",
+        "TotalAmount": 2618.69
+    },
+    {
+        "CustomerID": 157,
+        "BranchID": 957,
+        "SaleDate": "2020-03-14",
+        "TotalAmount": 2643.89
+    },
+    {
+        "CustomerID": 528,
+        "BranchID": 207,
+        "SaleDate": "2024-08-22",
+        "TotalAmount": 1550.95
+    },
+    {
+        "CustomerID": 515,
+        "BranchID": 549,
+        "SaleDate": "2024-06-16",
+        "TotalAmount": 18542.68
+    },
+    {
+        "CustomerID": 457,
+        "BranchID": 463,
+        "SaleDate": "2020-01-31",
+        "TotalAmount": 3056.98
+    },
+    {
+        "CustomerID": 905,
+        "BranchID": 114,
+        "SaleDate": "2020-08-10",
+        "TotalAmount": 6065.87
+    },
+    {
+        "CustomerID": 885,
+        "BranchID": 966,
+        "SaleDate": "2020-07-15",
+        "TotalAmount": 16512.03
+    },
+    {
+        "CustomerID": 111,
+        "BranchID": 93,
+        "SaleDate": "2022-01-02",
+        "TotalAmount": 13892.15
+    },
+    {
+        "CustomerID": 174,
+        "BranchID": 734,
+        "SaleDate": "2020-06-19",
+        "TotalAmount": 12714.31
+    },
+    {
+        "CustomerID": 594,
+        "BranchID": 756,
+        "SaleDate": "2022-07-17",
+        "TotalAmount": 12197.4
+    },
+    {
+        "CustomerID": 155,
+        "BranchID": 513,
+        "SaleDate": "2024-11-04",
+        "TotalAmount": 12678.41
+    },
+    {
+        "CustomerID": 271,
+        "BranchID": 805,
+        "SaleDate": "2023-04-02",
+        "TotalAmount": 8074.95
+    },
+    {
+        "CustomerID": 266,
+        "BranchID": 548,
+        "SaleDate": "2025-02-19",
+        "TotalAmount": 4076.21
+    },
+    {
+        "CustomerID": 548,
+        "BranchID": 759,
+        "SaleDate": "2022-05-18",
+        "TotalAmount": 18003.19
+    },
+    {
+        "CustomerID": 273,
+        "BranchID": 381,
+        "SaleDate": "2021-08-28",
+        "TotalAmount": 7113.41
+    },
+    {
+        "CustomerID": 138,
+        "BranchID": 425,
+        "SaleDate": "2020-12-18",
+        "TotalAmount": 14194.84
+    },
+    {
+        "CustomerID": 473,
+        "BranchID": 127,
+        "SaleDate": "2025-05-19",
+        "TotalAmount": 12233.05
+    },
+    {
+        "CustomerID": 160,
+        "BranchID": 211,
+        "SaleDate": "2020-12-18",
+        "TotalAmount": 15301.67
+    },
+    {
+        "CustomerID": 255,
+        "BranchID": 703,
+        "SaleDate": "2021-09-29",
+        "TotalAmount": 12045.99
+    },
+    {
+        "CustomerID": 816,
+        "BranchID": 389,
+        "SaleDate": "2022-08-12",
+        "TotalAmount": 18183.44
+    },
+    {
+        "CustomerID": 59,
+        "BranchID": 743,
+        "SaleDate": "2022-12-26",
+        "TotalAmount": 14007.39
+    },
+    {
+        "CustomerID": 782,
+        "BranchID": 443,
+        "SaleDate": "2022-03-10",
+        "TotalAmount": 9703.42
+    },
+    {
+        "CustomerID": 530,
+        "BranchID": 420,
+        "SaleDate": "2023-05-03",
+        "TotalAmount": 3130.87
+    },
+    {
+        "CustomerID": 414,
+        "BranchID": 642,
+        "SaleDate": "2021-05-10",
+        "TotalAmount": 2689.78
+    },
+    {
+        "CustomerID": 615,
+        "BranchID": 330,
+        "SaleDate": "2025-07-08",
+        "TotalAmount": 15344.43
+    },
+    {
+        "CustomerID": 876,
+        "BranchID": 991,
+        "SaleDate": "2023-09-08",
+        "TotalAmount": 10824.42
+    },
+    {
+        "CustomerID": 491,
+        "BranchID": 750,
+        "SaleDate": "2025-04-02",
+        "TotalAmount": 13583.63
+    },
+    {
+        "CustomerID": 123,
+        "BranchID": 760,
+        "SaleDate": "2022-08-13",
+        "TotalAmount": 1799.61
+    },
+    {
+        "CustomerID": 730,
+        "BranchID": 35,
+        "SaleDate": "2023-05-05",
+        "TotalAmount": 7095.89
+    },
+    {
+        "CustomerID": 181,
+        "BranchID": 54,
+        "SaleDate": "2020-01-18",
+        "TotalAmount": 4125.3
+    },
+    {
+        "CustomerID": 338,
+        "BranchID": 909,
+        "SaleDate": "2023-06-13",
+        "TotalAmount": 3025.82
+    },
+    {
+        "CustomerID": 533,
+        "BranchID": 260,
+        "SaleDate": "2021-04-13",
+        "TotalAmount": 4920.46
+    },
+    {
+        "CustomerID": 487,
+        "BranchID": 200,
+        "SaleDate": "2020-10-27",
+        "TotalAmount": 17831.97
+    },
+    {
+        "CustomerID": 849,
+        "BranchID": 558,
+        "SaleDate": "2024-03-30",
+        "TotalAmount": 3959.66
+    },
+    {
+        "CustomerID": 828,
+        "BranchID": 215,
+        "SaleDate": "2023-06-14",
+        "TotalAmount": 1245.72
+    },
+    {
+        "CustomerID": 392,
+        "BranchID": 769,
+        "SaleDate": "2021-02-22",
+        "TotalAmount": 5715.62
+    },
+    {
+        "CustomerID": 380,
+        "BranchID": 839,
+        "SaleDate": "2020-01-09",
+        "TotalAmount": 15468.19
+    },
+    {
+        "CustomerID": 173,
+        "BranchID": 970,
+        "SaleDate": "2025-07-30",
+        "TotalAmount": 1247.01
+    },
+    {
+        "CustomerID": 651,
+        "BranchID": 305,
+        "SaleDate": "2021-06-26",
+        "TotalAmount": 620.01
+    },
+    {
+        "CustomerID": 345,
+        "BranchID": 265,
+        "SaleDate": "2024-06-08",
+        "TotalAmount": 1945.3
+    },
+    {
+        "CustomerID": 897,
+        "BranchID": 254,
+        "SaleDate": "2020-12-29",
+        "TotalAmount": 13309.21
+    },
+    {
+        "CustomerID": 365,
+        "BranchID": 84,
+        "SaleDate": "2022-02-06",
+        "TotalAmount": 896.33
+    },
+    {
+        "CustomerID": 209,
+        "BranchID": 827,
+        "SaleDate": "2024-01-12",
+        "TotalAmount": 15732.73
+    },
+    {
+        "CustomerID": 575,
+        "BranchID": 88,
+        "SaleDate": "2025-03-21",
+        "TotalAmount": 3215.33
+    },
+    {
+        "CustomerID": 387,
+        "BranchID": 401,
+        "SaleDate": "2025-02-15",
+        "TotalAmount": 17044.92
+    },
+    {
+        "CustomerID": 690,
+        "BranchID": 985,
+        "SaleDate": "2021-04-28",
+        "TotalAmount": 1486.26
+    },
+    {
+        "CustomerID": 85,
+        "BranchID": 518,
+        "SaleDate": "2020-12-30",
+        "TotalAmount": 17544.74
+    },
+    {
+        "CustomerID": 669,
+        "BranchID": 516,
+        "SaleDate": "2021-06-05",
+        "TotalAmount": 18500.29
+    },
+    {
+        "CustomerID": 147,
+        "BranchID": 190,
+        "SaleDate": "2025-05-26",
+        "TotalAmount": 6717.45
+    },
+    {
+        "CustomerID": 378,
+        "BranchID": 710,
+        "SaleDate": "2022-07-08",
+        "TotalAmount": 9445.02
+    },
+    {
+        "CustomerID": 430,
+        "BranchID": 630,
+        "SaleDate": "2024-10-24",
+        "TotalAmount": 12584.68
+    },
+    {
+        "CustomerID": 365,
+        "BranchID": 217,
+        "SaleDate": "2022-06-18",
+        "TotalAmount": 11573.24
+    },
+    {
+        "CustomerID": 911,
+        "BranchID": 877,
+        "SaleDate": "2024-01-02",
+        "TotalAmount": 7409.97
+    },
+    {
+        "CustomerID": 502,
+        "BranchID": 662,
+        "SaleDate": "2024-12-16",
+        "TotalAmount": 14712.32
+    },
+    {
+        "CustomerID": 236,
+        "BranchID": 917,
+        "SaleDate": "2023-10-28",
+        "TotalAmount": 18830.98
+    },
+    {
+        "CustomerID": 164,
+        "BranchID": 110,
+        "SaleDate": "2020-12-04",
+        "TotalAmount": 12953.18
+    },
+    {
+        "CustomerID": 654,
+        "BranchID": 252,
+        "SaleDate": "2025-02-16",
+        "TotalAmount": 10218.32
+    },
+    {
+        "CustomerID": 611,
+        "BranchID": 481,
+        "SaleDate": "2024-11-23",
+        "TotalAmount": 7788.43
+    },
+    {
+        "CustomerID": 592,
+        "BranchID": 727,
+        "SaleDate": "2021-01-08",
+        "TotalAmount": 1788.24
+    },
+    {
+        "CustomerID": 521,
+        "BranchID": 750,
+        "SaleDate": "2021-01-27",
+        "TotalAmount": 6163.34
+    },
+    {
+        "CustomerID": 374,
+        "BranchID": 768,
+        "SaleDate": "2021-01-27",
+        "TotalAmount": 8285.66
+    },
+    {
+        "CustomerID": 433,
+        "BranchID": 405,
+        "SaleDate": "2022-07-25",
+        "TotalAmount": 12814.96
+    },
+    {
+        "CustomerID": 890,
+        "BranchID": 915,
+        "SaleDate": "2025-04-05",
+        "TotalAmount": 1742.81
+    },
+    {
+        "CustomerID": 346,
+        "BranchID": 477,
+        "SaleDate": "2022-12-04",
+        "TotalAmount": 4996.16
+    },
+    {
+        "CustomerID": 495,
+        "BranchID": 965,
+        "SaleDate": "2024-06-18",
+        "TotalAmount": 16638.19
+    },
+    {
+        "CustomerID": 702,
+        "BranchID": 428,
+        "SaleDate": "2022-09-26",
+        "TotalAmount": 59.42
+    },
+    {
+        "CustomerID": 553,
+        "BranchID": 168,
+        "SaleDate": "2020-10-18",
+        "TotalAmount": 17894.55
+    },
+    {
+        "CustomerID": 677,
+        "BranchID": 465,
+        "SaleDate": "2024-04-24",
+        "TotalAmount": 5379.39
+    },
+    {
+        "CustomerID": 275,
+        "BranchID": 100,
+        "SaleDate": "2025-01-30",
+        "TotalAmount": 9106.33
+    },
+    {
+        "CustomerID": 491,
+        "BranchID": 838,
+        "SaleDate": "2024-01-05",
+        "TotalAmount": 19689.19
+    },
+    {
+        "CustomerID": 642,
+        "BranchID": 957,
+        "SaleDate": "2020-10-25",
+        "TotalAmount": 688.21
+    },
+    {
+        "CustomerID": 403,
+        "BranchID": 154,
+        "SaleDate": "2024-07-16",
+        "TotalAmount": 132.7
+    },
+    {
+        "CustomerID": 189,
+        "BranchID": 365,
+        "SaleDate": "2023-04-28",
+        "TotalAmount": 15238.16
+    },
+    {
+        "CustomerID": 779,
+        "BranchID": 415,
+        "SaleDate": "2021-12-24",
+        "TotalAmount": 14080.8
+    },
+    {
+        "CustomerID": 473,
+        "BranchID": 432,
+        "SaleDate": "2021-10-18",
+        "TotalAmount": 453.19
+    },
+    {
+        "CustomerID": 604,
+        "BranchID": 877,
+        "SaleDate": "2022-10-14",
+        "TotalAmount": 194.8
+    },
+    {
+        "CustomerID": 367,
+        "BranchID": 222,
+        "SaleDate": "2022-07-06",
+        "TotalAmount": 19264.56
+    },
+    {
+        "CustomerID": 734,
+        "BranchID": 971,
+        "SaleDate": "2025-06-15",
+        "TotalAmount": 10000.13
+    },
+    {
+        "CustomerID": 918,
+        "BranchID": 456,
+        "SaleDate": "2020-01-21",
+        "TotalAmount": 8927.14
+    },
+    {
+        "CustomerID": 394,
+        "BranchID": 133,
+        "SaleDate": "2024-07-24",
+        "TotalAmount": 16923.62
+    },
+    {
+        "CustomerID": 370,
+        "BranchID": 512,
+        "SaleDate": "2024-05-28",
+        "TotalAmount": 1624.52
+    },
+    {
+        "CustomerID": 365,
+        "BranchID": 553,
+        "SaleDate": "2021-12-05",
+        "TotalAmount": 1770.86
+    },
+    {
+        "CustomerID": 302,
+        "BranchID": 606,
+        "SaleDate": "2022-04-15",
+        "TotalAmount": 19253.94
+    },
+    {
+        "CustomerID": 657,
+        "BranchID": 567,
+        "SaleDate": "2025-07-24",
+        "TotalAmount": 17475.78
+    },
+    {
+        "CustomerID": 25,
+        "BranchID": 404,
+        "SaleDate": "2023-08-13",
+        "TotalAmount": 8523.46
+    },
+    {
+        "CustomerID": 165,
+        "BranchID": 417,
+        "SaleDate": "2024-02-15",
+        "TotalAmount": 18583.94
+    },
+    {
+        "CustomerID": 59,
+        "BranchID": 937,
+        "SaleDate": "2022-07-05",
+        "TotalAmount": 4906.68
+    },
+    {
+        "CustomerID": 468,
+        "BranchID": 390,
+        "SaleDate": "2020-02-16",
+        "TotalAmount": 6776.46
+    },
+    {
+        "CustomerID": 791,
+        "BranchID": 674,
+        "SaleDate": "2021-09-10",
+        "TotalAmount": 18157.32
+    },
+    {
+        "CustomerID": 850,
+        "BranchID": 286,
+        "SaleDate": "2021-09-05",
+        "TotalAmount": 18607.95
+    },
+    {
+        "CustomerID": 56,
+        "BranchID": 130,
+        "SaleDate": "2021-12-17",
+        "TotalAmount": 4801.08
+    },
+    {
+        "CustomerID": 463,
+        "BranchID": 5,
+        "SaleDate": "2022-04-05",
+        "TotalAmount": 6193.61
+    },
+    {
+        "CustomerID": 176,
+        "BranchID": 724,
+        "SaleDate": "2025-06-14",
+        "TotalAmount": 11126.74
+    },
+    {
+        "CustomerID": 828,
+        "BranchID": 502,
+        "SaleDate": "2022-03-23",
+        "TotalAmount": 14511.25
+    },
+    {
+        "CustomerID": 715,
+        "BranchID": 909,
+        "SaleDate": "2021-08-27",
+        "TotalAmount": 11772.39
+    },
+    {
+        "CustomerID": 732,
+        "BranchID": 799,
+        "SaleDate": "2021-01-22",
+        "TotalAmount": 18242.38
+    },
+    {
+        "CustomerID": 203,
+        "BranchID": 965,
+        "SaleDate": "2020-11-11",
+        "TotalAmount": 19304.43
+    },
+    {
+        "CustomerID": 960,
+        "BranchID": 984,
+        "SaleDate": "2022-12-14",
+        "TotalAmount": 17013.89
+    },
+    {
+        "CustomerID": 405,
+        "BranchID": 448,
+        "SaleDate": "2024-03-13",
+        "TotalAmount": 1716.67
+    },
+    {
+        "CustomerID": 999,
+        "BranchID": 309,
+        "SaleDate": "2021-09-25",
+        "TotalAmount": 7543.04
+    },
+    {
+        "CustomerID": 762,
+        "BranchID": 685,
+        "SaleDate": "2023-08-21",
+        "TotalAmount": 5788.87
+    },
+    {
+        "CustomerID": 475,
+        "BranchID": 971,
+        "SaleDate": "2021-06-26",
+        "TotalAmount": 2700.05
+    },
+    {
+        "CustomerID": 340,
+        "BranchID": 245,
+        "SaleDate": "2025-01-28",
+        "TotalAmount": 11985.86
+    },
+    {
+        "CustomerID": 416,
+        "BranchID": 457,
+        "SaleDate": "2023-09-26",
+        "TotalAmount": 8591.8
+    },
+    {
+        "CustomerID": 268,
+        "BranchID": 994,
+        "SaleDate": "2024-03-05",
+        "TotalAmount": 4379.25
+    },
+    {
+        "CustomerID": 217,
+        "BranchID": 635,
+        "SaleDate": "2022-02-26",
+        "TotalAmount": 13673.27
+    },
+    {
+        "CustomerID": 478,
+        "BranchID": 194,
+        "SaleDate": "2025-02-19",
+        "TotalAmount": 5481.9
+    },
+    {
+        "CustomerID": 481,
+        "BranchID": 504,
+        "SaleDate": "2025-05-10",
+        "TotalAmount": 4162.74
+    },
+    {
+        "CustomerID": 973,
+        "BranchID": 121,
+        "SaleDate": "2021-11-19",
+        "TotalAmount": 4941.38
+    },
+    {
+        "CustomerID": 742,
+        "BranchID": 263,
+        "SaleDate": "2024-03-31",
+        "TotalAmount": 5163.17
+    },
+    {
+        "CustomerID": 847,
+        "BranchID": 113,
+        "SaleDate": "2021-11-27",
+        "TotalAmount": 507.17
+    },
+    {
+        "CustomerID": 236,
+        "BranchID": 191,
+        "SaleDate": "2020-10-19",
+        "TotalAmount": 7633.7
+    },
+    {
+        "CustomerID": 535,
+        "BranchID": 78,
+        "SaleDate": "2024-02-12",
+        "TotalAmount": 14250.76
+    },
+    {
+        "CustomerID": 694,
+        "BranchID": 375,
+        "SaleDate": "2022-12-19",
+        "TotalAmount": 2478.45
+    },
+    {
+        "CustomerID": 374,
+        "BranchID": 150,
+        "SaleDate": "2021-08-01",
+        "TotalAmount": 3972.03
+    },
+    {
+        "CustomerID": 157,
+        "BranchID": 665,
+        "SaleDate": "2024-04-15",
+        "TotalAmount": 9815.33
+    },
+    {
+        "CustomerID": 833,
+        "BranchID": 337,
+        "SaleDate": "2022-03-22",
+        "TotalAmount": 15431.33
+    },
+    {
+        "CustomerID": 520,
+        "BranchID": 609,
+        "SaleDate": "2021-07-10",
+        "TotalAmount": 5194.68
+    },
+    {
+        "CustomerID": 520,
+        "BranchID": 158,
+        "SaleDate": "2024-09-13",
+        "TotalAmount": 5305.65
+    },
+    {
+        "CustomerID": 75,
+        "BranchID": 353,
+        "SaleDate": "2020-11-28",
+        "TotalAmount": 17121.51
+    },
+    {
+        "CustomerID": 573,
+        "BranchID": 726,
+        "SaleDate": "2023-02-04",
+        "TotalAmount": 111.17
+    },
+    {
+        "CustomerID": 987,
+        "BranchID": 921,
+        "SaleDate": "2025-07-04",
+        "TotalAmount": 3239.54
+    },
+    {
+        "CustomerID": 72,
+        "BranchID": 43,
+        "SaleDate": "2020-12-02",
+        "TotalAmount": 16842.44
+    },
+    {
+        "CustomerID": 477,
+        "BranchID": 590,
+        "SaleDate": "2020-04-10",
+        "TotalAmount": 9088.55
+    },
+    {
+        "CustomerID": 562,
+        "BranchID": 831,
+        "SaleDate": "2021-09-14",
+        "TotalAmount": 1367.02
+    },
+    {
+        "CustomerID": 799,
+        "BranchID": 117,
+        "SaleDate": "2024-03-23",
+        "TotalAmount": 279.13
+    },
+    {
+        "CustomerID": 445,
+        "BranchID": 817,
+        "SaleDate": "2020-10-30",
+        "TotalAmount": 13867.4
+    },
+    {
+        "CustomerID": 817,
+        "BranchID": 617,
+        "SaleDate": "2023-04-25",
+        "TotalAmount": 12776.29
+    },
+    {
+        "CustomerID": 368,
+        "BranchID": 860,
+        "SaleDate": "2024-04-13",
+        "TotalAmount": 16210.33
+    },
+    {
+        "CustomerID": 115,
+        "BranchID": 809,
+        "SaleDate": "2024-12-07",
+        "TotalAmount": 4876.26
+    },
+    {
+        "CustomerID": 263,
+        "BranchID": 280,
+        "SaleDate": "2021-04-29",
+        "TotalAmount": 6557.26
+    },
+    {
+        "CustomerID": 310,
+        "BranchID": 37,
+        "SaleDate": "2020-02-14",
+        "TotalAmount": 5558.47
+    },
+    {
+        "CustomerID": 638,
+        "BranchID": 335,
+        "SaleDate": "2020-03-13",
+        "TotalAmount": 5768.71
+    },
+    {
+        "CustomerID": 553,
+        "BranchID": 387,
+        "SaleDate": "2024-04-12",
+        "TotalAmount": 5426.27
+    },
+    {
+        "CustomerID": 414,
+        "BranchID": 544,
+        "SaleDate": "2022-08-13",
+        "TotalAmount": 2110.47
+    },
+    {
+        "CustomerID": 964,
+        "BranchID": 179,
+        "SaleDate": "2024-05-28",
+        "TotalAmount": 15507.99
+    },
+    {
+        "CustomerID": 883,
+        "BranchID": 117,
+        "SaleDate": "2022-03-19",
+        "TotalAmount": 9812.96
+    },
+    {
+        "CustomerID": 201,
+        "BranchID": 294,
+        "SaleDate": "2022-06-07",
+        "TotalAmount": 9414.18
+    },
+    {
+        "CustomerID": 366,
+        "BranchID": 367,
+        "SaleDate": "2023-06-08",
+        "TotalAmount": 6168.55
+    },
+    {
+        "CustomerID": 117,
+        "BranchID": 404,
+        "SaleDate": "2024-07-15",
+        "TotalAmount": 7207.91
+    },
+    {
+        "CustomerID": 335,
+        "BranchID": 812,
+        "SaleDate": "2024-07-09",
+        "TotalAmount": 5994.0
+    },
+    {
+        "CustomerID": 611,
+        "BranchID": 370,
+        "SaleDate": "2021-10-19",
+        "TotalAmount": 12798.79
+    },
+    {
+        "CustomerID": 579,
+        "BranchID": 851,
+        "SaleDate": "2023-09-15",
+        "TotalAmount": 6783.96
+    },
+    {
+        "CustomerID": 552,
+        "BranchID": 215,
+        "SaleDate": "2022-04-21",
+        "TotalAmount": 4312.56
+    },
+    {
+        "CustomerID": 25,
+        "BranchID": 854,
+        "SaleDate": "2025-06-15",
+        "TotalAmount": 9727.65
+    },
+    {
+        "CustomerID": 81,
+        "BranchID": 879,
+        "SaleDate": "2020-11-15",
+        "TotalAmount": 8217.19
+    },
+    {
+        "CustomerID": 604,
+        "BranchID": 440,
+        "SaleDate": "2024-05-20",
+        "TotalAmount": 16370.61
+    },
+    {
+        "CustomerID": 868,
+        "BranchID": 759,
+        "SaleDate": "2025-06-24",
+        "TotalAmount": 15513.12
+    },
+    {
+        "CustomerID": 624,
+        "BranchID": 558,
+        "SaleDate": "2021-02-20",
+        "TotalAmount": 229.62
+    },
+    {
+        "CustomerID": 412,
+        "BranchID": 358,
+        "SaleDate": "2020-06-14",
+        "TotalAmount": 18553.44
+    },
+    {
+        "CustomerID": 65,
+        "BranchID": 717,
+        "SaleDate": "2020-09-01",
+        "TotalAmount": 14548.7
+    },
+    {
+        "CustomerID": 809,
+        "BranchID": 37,
+        "SaleDate": "2024-11-10",
+        "TotalAmount": 15335.95
+    },
+    {
+        "CustomerID": 848,
+        "BranchID": 868,
+        "SaleDate": "2020-07-03",
+        "TotalAmount": 13800.13
+    },
+    {
+        "CustomerID": 338,
+        "BranchID": 802,
+        "SaleDate": "2021-12-27",
+        "TotalAmount": 2359.46
+    },
+    {
+        "CustomerID": 441,
+        "BranchID": 703,
+        "SaleDate": "2021-07-02",
+        "TotalAmount": 16000.96
+    },
+    {
+        "CustomerID": 246,
+        "BranchID": 398,
+        "SaleDate": "2023-04-04",
+        "TotalAmount": 10878.88
+    },
+    {
+        "CustomerID": 302,
+        "BranchID": 430,
+        "SaleDate": "2023-02-22",
+        "TotalAmount": 7611.6
+    },
+    {
+        "CustomerID": 448,
+        "BranchID": 495,
+        "SaleDate": "2021-05-10",
+        "TotalAmount": 2527.46
+    },
+    {
+        "CustomerID": 244,
+        "BranchID": 693,
+        "SaleDate": "2022-09-18",
+        "TotalAmount": 19659.45
+    },
+    {
+        "CustomerID": 85,
+        "BranchID": 375,
+        "SaleDate": "2022-10-26",
+        "TotalAmount": 3003.63
+    },
+    {
+        "CustomerID": 138,
+        "BranchID": 749,
+        "SaleDate": "2022-03-22",
+        "TotalAmount": 17824.29
+    },
+    {
+        "CustomerID": 143,
+        "BranchID": 549,
+        "SaleDate": "2021-02-03",
+        "TotalAmount": 4774.29
+    },
+    {
+        "CustomerID": 954,
+        "BranchID": 440,
+        "SaleDate": "2024-10-12",
+        "TotalAmount": 16472.11
+    },
+    {
+        "CustomerID": 882,
+        "BranchID": 644,
+        "SaleDate": "2025-05-28",
+        "TotalAmount": 15225.42
+    },
+    {
+        "CustomerID": 860,
+        "BranchID": 625,
+        "SaleDate": "2020-11-06",
+        "TotalAmount": 12123.66
+    },
+    {
+        "CustomerID": 580,
+        "BranchID": 991,
+        "SaleDate": "2020-11-07",
+        "TotalAmount": 12014.72
+    },
+    {
+        "CustomerID": 585,
+        "BranchID": 275,
+        "SaleDate": "2023-07-05",
+        "TotalAmount": 7450.21
+    },
+    {
+        "CustomerID": 995,
+        "BranchID": 225,
+        "SaleDate": "2020-05-17",
+        "TotalAmount": 8131.74
+    },
+    {
+        "CustomerID": 895,
+        "BranchID": 396,
+        "SaleDate": "2023-06-08",
+        "TotalAmount": 2235.95
+    },
+    {
+        "CustomerID": 531,
+        "BranchID": 71,
+        "SaleDate": "2021-06-12",
+        "TotalAmount": 3977.3
+    },
+    {
+        "CustomerID": 16,
+        "BranchID": 36,
+        "SaleDate": "2023-08-26",
+        "TotalAmount": 4733.06
+    },
+    {
+        "CustomerID": 727,
+        "BranchID": 616,
+        "SaleDate": "2024-06-26",
+        "TotalAmount": 307.21
+    },
+    {
+        "CustomerID": 651,
+        "BranchID": 80,
+        "SaleDate": "2022-01-17",
+        "TotalAmount": 13761.01
+    },
+    {
+        "CustomerID": 980,
+        "BranchID": 879,
+        "SaleDate": "2025-07-09",
+        "TotalAmount": 14152.22
+    },
+    {
+        "CustomerID": 628,
+        "BranchID": 806,
+        "SaleDate": "2020-03-27",
+        "TotalAmount": 13359.03
+    },
+    {
+        "CustomerID": 276,
+        "BranchID": 61,
+        "SaleDate": "2021-04-10",
+        "TotalAmount": 8417.03
+    },
+    {
+        "CustomerID": 852,
+        "BranchID": 167,
+        "SaleDate": "2024-06-17",
+        "TotalAmount": 16960.29
+    },
+    {
+        "CustomerID": 997,
+        "BranchID": 664,
+        "SaleDate": "2020-02-16",
+        "TotalAmount": 653.02
+    },
+    {
+        "CustomerID": 130,
+        "BranchID": 144,
+        "SaleDate": "2020-06-01",
+        "TotalAmount": 10861.9
+    },
+    {
+        "CustomerID": 320,
+        "BranchID": 71,
+        "SaleDate": "2022-08-02",
+        "TotalAmount": 5417.81
+    },
+    {
+        "CustomerID": 176,
+        "BranchID": 78,
+        "SaleDate": "2022-11-04",
+        "TotalAmount": 17726.23
+    },
+    {
+        "CustomerID": 506,
+        "BranchID": 56,
+        "SaleDate": "2022-06-15",
+        "TotalAmount": 9118.38
+    },
+    {
+        "CustomerID": 439,
+        "BranchID": 139,
+        "SaleDate": "2022-09-29",
+        "TotalAmount": 10968.42
+    },
+    {
+        "CustomerID": 515,
+        "BranchID": 785,
+        "SaleDate": "2025-05-03",
+        "TotalAmount": 3954.77
+    },
+    {
+        "CustomerID": 512,
+        "BranchID": 678,
+        "SaleDate": "2020-09-11",
+        "TotalAmount": 11288.96
+    },
+    {
+        "CustomerID": 767,
+        "BranchID": 830,
+        "SaleDate": "2020-09-17",
+        "TotalAmount": 13364.71
+    },
+    {
+        "CustomerID": 709,
+        "BranchID": 656,
+        "SaleDate": "2023-05-03",
+        "TotalAmount": 9513.96
+    },
+    {
+        "CustomerID": 879,
+        "BranchID": 614,
+        "SaleDate": "2021-08-28",
+        "TotalAmount": 19103.85
+    },
+    {
+        "CustomerID": 861,
+        "BranchID": 503,
+        "SaleDate": "2020-03-28",
+        "TotalAmount": 9891.94
+    },
+    {
+        "CustomerID": 156,
+        "BranchID": 586,
+        "SaleDate": "2020-04-15",
+        "TotalAmount": 9175.22
+    },
+    {
+        "CustomerID": 154,
+        "BranchID": 458,
+        "SaleDate": "2020-04-06",
+        "TotalAmount": 5214.07
+    },
+    {
+        "CustomerID": 417,
+        "BranchID": 823,
+        "SaleDate": "2021-04-12",
+        "TotalAmount": 4656.82
+    },
+    {
+        "CustomerID": 350,
+        "BranchID": 292,
+        "SaleDate": "2024-07-03",
+        "TotalAmount": 8225.79
+    },
+    {
+        "CustomerID": 611,
+        "BranchID": 501,
+        "SaleDate": "2023-04-12",
+        "TotalAmount": 9944.59
+    },
+    {
+        "CustomerID": 829,
+        "BranchID": 925,
+        "SaleDate": "2021-12-15",
+        "TotalAmount": 12841.46
+    },
+    {
+        "CustomerID": 666,
+        "BranchID": 740,
+        "SaleDate": "2025-06-24",
+        "TotalAmount": 8577.49
+    },
+    {
+        "CustomerID": 743,
+        "BranchID": 185,
+        "SaleDate": "2023-02-25",
+        "TotalAmount": 9423.41
+    },
+    {
+        "CustomerID": 315,
+        "BranchID": 743,
+        "SaleDate": "2022-04-15",
+        "TotalAmount": 13676.7
+    },
+    {
+        "CustomerID": 662,
+        "BranchID": 182,
+        "SaleDate": "2024-08-09",
+        "TotalAmount": 13807.81
+    },
+    {
+        "CustomerID": 169,
+        "BranchID": 999,
+        "SaleDate": "2020-10-11",
+        "TotalAmount": 13544.88
+    },
+    {
+        "CustomerID": 602,
+        "BranchID": 685,
+        "SaleDate": "2020-06-05",
+        "TotalAmount": 6455.47
+    },
+    {
+        "CustomerID": 688,
+        "BranchID": 787,
+        "SaleDate": "2024-10-27",
+        "TotalAmount": 17808.56
+    },
+    {
+        "CustomerID": 82,
+        "BranchID": 562,
+        "SaleDate": "2021-08-14",
+        "TotalAmount": 5405.51
+    },
+    {
+        "CustomerID": 182,
+        "BranchID": 619,
+        "SaleDate": "2023-03-04",
+        "TotalAmount": 17632.51
+    },
+    {
+        "CustomerID": 302,
+        "BranchID": 524,
+        "SaleDate": "2021-02-15",
+        "TotalAmount": 9879.28
+    },
+    {
+        "CustomerID": 464,
+        "BranchID": 479,
+        "SaleDate": "2024-03-20",
+        "TotalAmount": 2963.75
+    },
+    {
+        "CustomerID": 576,
+        "BranchID": 105,
+        "SaleDate": "2022-01-25",
+        "TotalAmount": 11684.11
+    },
+    {
+        "CustomerID": 879,
+        "BranchID": 486,
+        "SaleDate": "2023-06-09",
+        "TotalAmount": 14871.66
+    },
+    {
+        "CustomerID": 645,
+        "BranchID": 161,
+        "SaleDate": "2023-11-08",
+        "TotalAmount": 8682.35
+    },
+    {
+        "CustomerID": 188,
+        "BranchID": 885,
+        "SaleDate": "2023-07-23",
+        "TotalAmount": 6310.03
+    },
+    {
+        "CustomerID": 243,
+        "BranchID": 225,
+        "SaleDate": "2020-06-20",
+        "TotalAmount": 420.94
+    },
+    {
+        "CustomerID": 573,
+        "BranchID": 325,
+        "SaleDate": "2020-10-07",
+        "TotalAmount": 8332.58
+    },
+    {
+        "CustomerID": 794,
+        "BranchID": 595,
+        "SaleDate": "2020-02-25",
+        "TotalAmount": 9936.24
+    },
+    {
+        "CustomerID": 743,
+        "BranchID": 884,
+        "SaleDate": "2023-07-08",
+        "TotalAmount": 17856.56
+    },
+    {
+        "CustomerID": 914,
+        "BranchID": 109,
+        "SaleDate": "2023-10-15",
+        "TotalAmount": 2298.76
+    },
+    {
+        "CustomerID": 570,
+        "BranchID": 234,
+        "SaleDate": "2021-07-12",
+        "TotalAmount": 3751.94
+    },
+    {
+        "CustomerID": 688,
+        "BranchID": 734,
+        "SaleDate": "2021-01-19",
+        "TotalAmount": 9556.84
+    },
+    {
+        "CustomerID": 940,
+        "BranchID": 115,
+        "SaleDate": "2020-08-09",
+        "TotalAmount": 2445.88
+    },
+    {
+        "CustomerID": 857,
+        "BranchID": 317,
+        "SaleDate": "2020-04-29",
+        "TotalAmount": 18460.33
+    },
+    {
+        "CustomerID": 364,
+        "BranchID": 658,
+        "SaleDate": "2022-05-25",
+        "TotalAmount": 12193.23
+    },
+    {
+        "CustomerID": 110,
+        "BranchID": 867,
+        "SaleDate": "2023-04-23",
+        "TotalAmount": 19347.1
+    },
+    {
+        "CustomerID": 291,
+        "BranchID": 165,
+        "SaleDate": "2025-02-04",
+        "TotalAmount": 17131.7
+    },
+    {
+        "CustomerID": 129,
+        "BranchID": 642,
+        "SaleDate": "2022-07-22",
+        "TotalAmount": 4848.92
+    },
+    {
+        "CustomerID": 657,
+        "BranchID": 830,
+        "SaleDate": "2023-07-04",
+        "TotalAmount": 5770.41
+    },
+    {
+        "CustomerID": 899,
+        "BranchID": 85,
+        "SaleDate": "2024-03-22",
+        "TotalAmount": 3577.63
+    },
+    {
+        "CustomerID": 796,
+        "BranchID": 829,
+        "SaleDate": "2020-09-17",
+        "TotalAmount": 17410.95
+    },
+    {
+        "CustomerID": 111,
+        "BranchID": 820,
+        "SaleDate": "2025-03-17",
+        "TotalAmount": 17687.07
+    },
+    {
+        "CustomerID": 701,
+        "BranchID": 576,
+        "SaleDate": "2020-01-09",
+        "TotalAmount": 2278.26
+    },
+    {
+        "CustomerID": 365,
+        "BranchID": 661,
+        "SaleDate": "2022-05-05",
+        "TotalAmount": 4187.53
+    },
+    {
+        "CustomerID": 132,
+        "BranchID": 787,
+        "SaleDate": "2024-05-08",
+        "TotalAmount": 1686.58
+    },
+    {
+        "CustomerID": 99,
+        "BranchID": 422,
+        "SaleDate": "2025-05-07",
+        "TotalAmount": 11578.0
+    },
+    {
+        "CustomerID": 59,
+        "BranchID": 485,
+        "SaleDate": "2022-10-01",
+        "TotalAmount": 5549.21
+    },
+    {
+        "CustomerID": 431,
+        "BranchID": 37,
+        "SaleDate": "2020-09-21",
+        "TotalAmount": 123.79
+    },
+    {
+        "CustomerID": 199,
+        "BranchID": 239,
+        "SaleDate": "2020-07-09",
+        "TotalAmount": 7137.26
+    },
+    {
+        "CustomerID": 113,
+        "BranchID": 750,
+        "SaleDate": "2023-02-03",
+        "TotalAmount": 16047.12
+    },
+    {
+        "CustomerID": 796,
+        "BranchID": 484,
+        "SaleDate": "2024-12-09",
+        "TotalAmount": 17295.08
+    },
+    {
+        "CustomerID": 389,
+        "BranchID": 495,
+        "SaleDate": "2021-04-18",
+        "TotalAmount": 3608.61
+    },
+    {
+        "CustomerID": 45,
+        "BranchID": 140,
+        "SaleDate": "2021-03-17",
+        "TotalAmount": 14398.67
+    },
+    {
+        "CustomerID": 961,
+        "BranchID": 659,
+        "SaleDate": "2020-03-06",
+        "TotalAmount": 3028.75
+    },
+    {
+        "CustomerID": 321,
+        "BranchID": 477,
+        "SaleDate": "2021-04-25",
+        "TotalAmount": 4657.67
+    },
+    {
+        "CustomerID": 936,
+        "BranchID": 722,
+        "SaleDate": "2024-10-20",
+        "TotalAmount": 474.21
+    },
+    {
+        "CustomerID": 408,
+        "BranchID": 564,
+        "SaleDate": "2023-05-28",
+        "TotalAmount": 16137.95
+    },
+    {
+        "CustomerID": 42,
+        "BranchID": 313,
+        "SaleDate": "2024-10-19",
+        "TotalAmount": 6866.31
+    },
+    {
+        "CustomerID": 22,
+        "BranchID": 89,
+        "SaleDate": "2020-10-04",
+        "TotalAmount": 9540.19
+    },
+    {
+        "CustomerID": 594,
+        "BranchID": 250,
+        "SaleDate": "2023-03-22",
+        "TotalAmount": 9634.9
+    },
+    {
+        "CustomerID": 308,
+        "BranchID": 334,
+        "SaleDate": "2021-09-28",
+        "TotalAmount": 10388.33
+    },
+    {
+        "CustomerID": 237,
+        "BranchID": 703,
+        "SaleDate": "2021-11-22",
+        "TotalAmount": 2994.26
+    },
+    {
+        "CustomerID": 344,
+        "BranchID": 813,
+        "SaleDate": "2024-06-11",
+        "TotalAmount": 4917.92
+    },
+    {
+        "CustomerID": 563,
+        "BranchID": 37,
+        "SaleDate": "2021-01-31",
+        "TotalAmount": 14937.69
+    },
+    {
+        "CustomerID": 661,
+        "BranchID": 210,
+        "SaleDate": "2023-02-25",
+        "TotalAmount": 18042.58
+    },
+    {
+        "CustomerID": 484,
+        "BranchID": 185,
+        "SaleDate": "2020-07-19",
+        "TotalAmount": 9066.53
+    },
+    {
+        "CustomerID": 524,
+        "BranchID": 649,
+        "SaleDate": "2022-04-09",
+        "TotalAmount": 3656.11
+    },
+    {
+        "CustomerID": 952,
+        "BranchID": 855,
+        "SaleDate": "2025-06-03",
+        "TotalAmount": 14438.2
+    },
+    {
+        "CustomerID": 830,
+        "BranchID": 181,
+        "SaleDate": "2024-12-15",
+        "TotalAmount": 1669.31
+    },
+    {
+        "CustomerID": 868,
+        "BranchID": 219,
+        "SaleDate": "2020-03-07",
+        "TotalAmount": 13787.1
+    },
+    {
+        "CustomerID": 111,
+        "BranchID": 205,
+        "SaleDate": "2024-01-30",
+        "TotalAmount": 17686.38
+    },
+    {
+        "CustomerID": 658,
+        "BranchID": 376,
+        "SaleDate": "2022-07-27",
+        "TotalAmount": 11269.84
+    },
+    {
+        "CustomerID": 116,
+        "BranchID": 364,
+        "SaleDate": "2021-01-11",
+        "TotalAmount": 10113.85
+    },
+    {
+        "CustomerID": 95,
+        "BranchID": 353,
+        "SaleDate": "2020-12-04",
+        "TotalAmount": 17480.19
+    },
+    {
+        "CustomerID": 142,
+        "BranchID": 403,
+        "SaleDate": "2022-11-27",
+        "TotalAmount": 18355.47
+    },
+    {
+        "CustomerID": 63,
+        "BranchID": 285,
+        "SaleDate": "2021-11-08",
+        "TotalAmount": 13845.65
+    },
+    {
+        "CustomerID": 741,
+        "BranchID": 49,
+        "SaleDate": "2023-02-26",
+        "TotalAmount": 14551.51
+    },
+    {
+        "CustomerID": 199,
+        "BranchID": 335,
+        "SaleDate": "2024-12-22",
+        "TotalAmount": 10541.74
+    },
+    {
+        "CustomerID": 762,
+        "BranchID": 844,
+        "SaleDate": "2020-04-04",
+        "TotalAmount": 7322.36
+    },
+    {
+        "CustomerID": 503,
+        "BranchID": 206,
+        "SaleDate": "2020-03-14",
+        "TotalAmount": 3336.55
+    },
+    {
+        "CustomerID": 283,
+        "BranchID": 550,
+        "SaleDate": "2023-09-20",
+        "TotalAmount": 3416.44
+    },
+    {
+        "CustomerID": 755,
+        "BranchID": 429,
+        "SaleDate": "2022-04-16",
+        "TotalAmount": 14476.62
+    },
+    {
+        "CustomerID": 770,
+        "BranchID": 508,
+        "SaleDate": "2024-12-25",
+        "TotalAmount": 11857.01
+    },
+    {
+        "CustomerID": 476,
+        "BranchID": 731,
+        "SaleDate": "2023-07-05",
+        "TotalAmount": 19588.61
+    },
+    {
+        "CustomerID": 216,
+        "BranchID": 233,
+        "SaleDate": "2022-12-14",
+        "TotalAmount": 8871.76
+    },
+    {
+        "CustomerID": 877,
+        "BranchID": 240,
+        "SaleDate": "2022-07-21",
+        "TotalAmount": 12833.02
+    }
+]
